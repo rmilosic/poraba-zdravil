@@ -1,0 +1,166 @@
+ATC3,NAZIV,joint_name
+A01A,Zdravila v zobozdravstvu,A01A - Zdravila v zobozdravstvu
+A02A,Antacidi,A02A - Antacidi
+A02B,Zdravila za zdravljenje peptične razjede in gastroezofagealne refluksne bolezni (gerb),A02B - Zdravila za zdravljenje peptične razjede in gastroezofagealne refluksne bolezni (gerb)
+A03A,Zdravila za zdravljenje gastrointestinalnih funkcionalnih motenj,A03A - Zdravila za zdravljenje gastrointestinalnih funkcionalnih motenj
+A03B,"Alkaloidi volčje češnje in njihovi derivati, enokomponentna zdravila","A03B - Alkaloidi volčje češnje in njihovi derivati, enokomponentna zdravila"
+A03F,Propulzivi,A03F - Propulzivi
+A04A,Antiemetiki in zdravila proti slabosti,A04A - Antiemetiki in zdravila proti slabosti
+A05A,Zdravila za bolezni žolča,A05A - Zdravila za bolezni žolča
+A06A,Zdravila proti zaprtju,A06A - Zdravila proti zaprtju
+A07A,Zdravila za lokalno zdravljenje infekcijskih bolezni črevesne sluznice,A07A - Zdravila za lokalno zdravljenje infekcijskih bolezni črevesne sluznice
+A07C,Elektroliti z ogljikovimi hidrati,A07C - Elektroliti z ogljikovimi hidrati
+A07D,Antiperistaltiki,A07D - Antiperistaltiki
+A07E,Zdravila s protivnetnim delovanjem v črevesju,A07E - Zdravila s protivnetnim delovanjem v črevesju
+A09A,"Digestivi, vključno z encimi","A09A - Digestivi, vključno z encimi"
+A10A,Insulini in analogi,A10A - Insulini in analogi
+A10B,"Antidiabetiki, brez insulinov","A10B - Antidiabetiki, brez insulinov"
+A11C,Vitamina A in D ter njune kombinacije,A11C - Vitamina A in D ter njune kombinacije
+A11D,"Vitamin B1, enokomponentna zdravila in v kombinaciji z vitaminoma B6 in B12","A11D - Vitamin B1, enokomponentna zdravila in v kombinaciji z vitaminoma B6 in B12"
+A11H,Druga enokomponentna vitaminska zdravila,A11H - Druga enokomponentna vitaminska zdravila
+A12A,Kalcij,A12A - Kalcij
+A12B,Kalij,A12B - Kalij
+A16A,Druga zdravila za bolezni prebavil in presnove,A16A - Druga zdravila za bolezni prebavil in presnove
+B01A,Antitrombotiki,B01A - Antitrombotiki
+B02A,Antifibrinolitiki,B02A - Antifibrinolitiki
+B02B,Vitamin K in drugi hemostatiki,B02B - Vitamin K in drugi hemostatiki
+B03A,Zdravila z železom,B03A - Zdravila z železom
+B03X,Druga zdravila za zdravljenje slabokrvnosti,B03X - Druga zdravila za zdravljenje slabokrvnosti
+B05B,Raztopine za intravensko uporabo,B05B - Raztopine za intravensko uporabo
+B06A,Druga krvna zdravila,B06A - Druga krvna zdravila
+C01A,Kardiotonični glikozidi,C01A - Kardiotonični glikozidi
+C01B,"Antiaritmiki, skupini I in III","C01B - Antiaritmiki, skupini I in III"
+C01C,Spodbujevalci srčne funkcije brez kardiotoničnih glikozidov,C01C - Spodbujevalci srčne funkcije brez kardiotoničnih glikozidov
+C01D,Vazodilatatorji za zdravljenje koronarne ishemije,C01D - Vazodilatatorji za zdravljenje koronarne ishemije
+C01E,Druga zdravila za bolezni srca,C01E - Druga zdravila za bolezni srca
+C02A,Antiadrenergiki s centralnim delovanjem,C02A - Antiadrenergiki s centralnim delovanjem
+C02C,Antiadrenergiki s perifernim delovanjem,C02C - Antiadrenergiki s perifernim delovanjem
+C02K,Drugi antihipertenzivi,C02K - Drugi antihipertenzivi
+C02L,Antihipertenzivi v kombinaciji z diuretiki,C02L - Antihipertenzivi v kombinaciji z diuretiki
+C03B,"Diuretiki dilucijskega segmenta, brez tiazidov","C03B - Diuretiki dilucijskega segmenta, brez tiazidov"
+C03C,Diuretiki vhodnega kraka Henlejeve zanke,C03C - Diuretiki vhodnega kraka Henlejeve zanke
+C03D,Antikaliuretični diuretiki (varčevalni s kalijem),C03D - Antikaliuretični diuretiki (varčevalni s kalijem)
+C03E,"Kombinacije diuretikov in diuretikov, ki varčujejo s kalijem","C03E - Kombinacije diuretikov in diuretikov, ki varčujejo s kalijem"
+C04A,Periferni vazodilatatorji,C04A - Periferni vazodilatatorji
+C05C,Zdravila za stabiliziranje kapilar,C05C - Zdravila za stabiliziranje kapilar
+C07A,Antagonisti adrenergičnih receptorjev beta,C07A - Antagonisti adrenergičnih receptorjev beta
+C07B,Antagonisti adrenergičnih receptorjev beta in tiazidi,C07B - Antagonisti adrenergičnih receptorjev beta in tiazidi
+C07C,Antagonisti adrenergičnih receptorjev beta in drugi diuretiki,C07C - Antagonisti adrenergičnih receptorjev beta in drugi diuretiki
+C07F,"Antagonisti adrenergičnih receptorjev beta, druge kombinacije","C07F - Antagonisti adrenergičnih receptorjev beta, druge kombinacije"
+C08C,Selektivni zaviralci kalcijevih kanalčkov z delovanjem na žile,C08C - Selektivni zaviralci kalcijevih kanalčkov z delovanjem na žile
+C08D,Selektivni zaviralci kalcijevih kanalčkov z direktnim delovanjem na prevodni sistem srca,C08D - Selektivni zaviralci kalcijevih kanalčkov z direktnim delovanjem na prevodni sistem srca
+C08G,Zaviralci kalcijevih kanalčkov in diuretiki,C08G - Zaviralci kalcijevih kanalčkov in diuretiki
+C09A,"Zaviralci angiotenzinske konvertaze, enokomponentna zdravila","C09A - Zaviralci angiotenzinske konvertaze, enokomponentna zdravila"
+C09B,"Zaviralci angiotenzinske konvertaze, kombinacije","C09B - Zaviralci angiotenzinske konvertaze, kombinacije"
+C09C,"Blokatorji receptorjev za angiotenzin II (ARBs), enokomponentna zdravila","C09C - Blokatorji receptorjev za angiotenzin II (ARBs), enokomponentna zdravila"
+C09D,"Blokatorji receptorjev za angiotenzin II (ARBs), kombinacije","C09D - Blokatorji receptorjev za angiotenzin II (ARBs), kombinacije"
+C09X,Druga zdravila z delovanjem na renin-angiotenzinski sistem,C09X - Druga zdravila z delovanjem na renin-angiotenzinski sistem
+C10A,"Zdravila za spreminjanje ravni serumskih lipidov, enokomponentna zdravila","C10A - Zdravila za spreminjanje ravni serumskih lipidov, enokomponentna zdravila"
+C10B,"Zdravila za spreminjanje ravni serumskih lipidov, kombinacije","C10B - Zdravila za spreminjanje ravni serumskih lipidov, kombinacije"
+D01A,Antimikotiki za lokalno zdravljenje,D01A - Antimikotiki za lokalno zdravljenje
+D01B,Antimikotiki za sistemsko zdravljenje,D01B - Antimikotiki za sistemsko zdravljenje
+D02A,Zdravila za mehčanje in varovanje kože,D02A - Zdravila za mehčanje in varovanje kože
+D03A,Zdravila za oskrbo brazgotin,D03A - Zdravila za oskrbo brazgotin
+D04A,"Antipruritiki z antihistaminiki, anestetiki itd.","D04A - Antipruritiki z antihistaminiki, anestetiki itd."
+D05A,Antipsoriatiki za lokalno zdravljenje,D05A - Antipsoriatiki za lokalno zdravljenje
+D05B,Antipsoriatiki za sistemsko zdravljenje,D05B - Antipsoriatiki za sistemsko zdravljenje
+D06B,Kemoterapevtiki za lokalno zdravljenje,D06B - Kemoterapevtiki za lokalno zdravljenje
+D07A,"Kortikosteroidi, enokomponentna zdravila","D07A - Kortikosteroidi, enokomponentna zdravila"
+D07X,"Kortikosteroidi, druge  kombinacije","D07X - Kortikosteroidi, druge  kombinacije"
+D08A,Antiseptiki in dezinficiensi,D08A - Antiseptiki in dezinficiensi
+D09A,Zdravilne obveze,D09A - Zdravilne obveze
+D10A,Zdravila za lokalno zdravljenje aken,D10A - Zdravila za lokalno zdravljenje aken
+D10B,Zdravila za sistemsko zdravljenje aken,D10B - Zdravila za sistemsko zdravljenje aken
+D11A,Druga zdravila za bolezni kože in podkožnega tkiva,D11A - Druga zdravila za bolezni kože in podkožnega tkiva
+G01A,Protimikrobna zdravila in antiseptiki brez kombinacij s kortikosteroidi,G01A - Protimikrobna zdravila in antiseptiki brez kombinacij s kortikosteroidi
+G02B,Lokalni kontraceptivi,G02B - Lokalni kontraceptivi
+G02C,Druga ginekološka zdravila,G02C - Druga ginekološka zdravila
+G03A,Hormonski sistemski kontraceptivi,G03A - Hormonski sistemski kontraceptivi
+G03B,Androgeni,G03B - Androgeni
+G03C,Estrogeni,G03C - Estrogeni
+G03D,Progestogeni,G03D - Progestogeni
+G03F,Progestogeni v kombinaciji z estrogeni,G03F - Progestogeni v kombinaciji z estrogeni
+G03G,Gonadotropni hormoni in drugi spodbujevalci ovulacije,G03G - Gonadotropni hormoni in drugi spodbujevalci ovulacije
+G03H,Antiandrogeni,G03H - Antiandrogeni
+G03X,Drugi spolni hormoni in zdravila za uravnavanje delovanja spolovil,G03X - Drugi spolni hormoni in zdravila za uravnavanje delovanja spolovil
+G04B,Zdravila za bolezni sečil,G04B - Zdravila za bolezni sečil
+G04C,Zdravila za zdravljenje benigne hipertrofije prostate,G04C - Zdravila za zdravljenje benigne hipertrofije prostate
+H01A,Hormoni prednjega režnja hipofize in sorodne učinkovine,H01A - Hormoni prednjega režnja hipofize in sorodne učinkovine
+H01B,Hormoni zadnjega režnja hipofize,H01B - Hormoni zadnjega režnja hipofize
+H01C,Hipotalamični hormoni,H01C - Hipotalamični hormoni
+H02A,"Kortikosteroidi za sistemsko zdravljenje, enokomponentna zdravila","H02A - Kortikosteroidi za sistemsko zdravljenje, enokomponentna zdravila"
+H03A,Zdravila za zdravljenje hipotiroze,H03A - Zdravila za zdravljenje hipotiroze
+H03B,Zdravila za zdravljenje hipertiroze (tirostatiki),H03B - Zdravila za zdravljenje hipertiroze (tirostatiki)
+H03C,Zdravljenje z jodom,H03C - Zdravljenje z jodom
+H04A,Glikogenolizni hormoni,H04A - Glikogenolizni hormoni
+H05A,Obščitnični hormoni in analogi,H05A - Obščitnični hormoni in analogi
+H05B,Paratiroideo zavirajoče učinkovine,H05B - Paratiroideo zavirajoče učinkovine
+J01A,Tetraciklini,J01A - Tetraciklini
+J01C,"Betalaktamski antibiotiki, penicilini","J01C - Betalaktamski antibiotiki, penicilini"
+J01D,Drugi betalaktamski antibiotiki,J01D - Drugi betalaktamski antibiotiki
+J01E,Sulfonamidi in trimetoprim,J01E - Sulfonamidi in trimetoprim
+J01F,"Makrolidi, linkozamidi in streptogramini","J01F - Makrolidi, linkozamidi in streptogramini"
+J01G,Aminoglikozidni antibiotiki,J01G - Aminoglikozidni antibiotiki
+J01M,Kinolonske protimikrobne učinkovine,J01M - Kinolonske protimikrobne učinkovine
+J01X,Druge protimikrobne učinkovine,J01X - Druge protimikrobne učinkovine
+J02A,Antimikotiki za sistemsko zdravljenje,J02A - Antimikotiki za sistemsko zdravljenje
+J04A,Zdravila z delovanjem na Mycobacterium tuberculosis,J04A - Zdravila z delovanjem na Mycobacterium tuberculosis
+J04B,Zdravila z delovanjem na Mycobacterium leprae,J04B - Zdravila z delovanjem na Mycobacterium leprae
+J05A,Zdravila z direktnim delovanjem na viruse,J05A - Zdravila z direktnim delovanjem na viruse
+J06B,Imunoglobulini,J06B - Imunoglobulini
+L01A,Alkilirajoči citostatiki,L01A - Alkilirajoči citostatiki
+L01B,Zaviralci celične presnove (antimetaboliti),L01B - Zaviralci celične presnove (antimetaboliti)
+L01C,Rastlinski alkaloidi in druge naravne učinkovine (zaviralci mitoze),L01C - Rastlinski alkaloidi in druge naravne učinkovine (zaviralci mitoze)
+L01X,Druga zdravila z delovanjem na novotvorbe (citostatiki),L01X - Druga zdravila z delovanjem na novotvorbe (citostatiki)
+L02A,Hormoni in sorodne učinkovine,L02A - Hormoni in sorodne učinkovine
+L02B,Hormonski antagonisti in sorodne učinkovine,L02B - Hormonski antagonisti in sorodne učinkovine
+L03A,Zdravila za spodbujanje imunske odzivnosti,L03A - Zdravila za spodbujanje imunske odzivnosti
+L04A,Zdravila za zaviranje imunske odzivnosti,L04A - Zdravila za zaviranje imunske odzivnosti
+M01A,Nesteroidna protivnetna in protirevmatična zdravila,M01A - Nesteroidna protivnetna in protirevmatična zdravila
+M03B,Mišični relaksanti s centralnim delovanjem,M03B - Mišični relaksanti s centralnim delovanjem
+M04A,Zdravila za zdravljenje protina,M04A - Zdravila za zdravljenje protina
+M05B,Zdravila z učinkom na strukturo in mineralizacijo kosti,M05B - Zdravila z učinkom na strukturo in mineralizacijo kosti
+M09A,Druga zdravila za zdravljenje motenj mišično-skeletnega sistema,M09A - Druga zdravila za zdravljenje motenj mišično-skeletnega sistema
+N01B,Lokalni anestetiki,N01B - Lokalni anestetiki
+N02A,Opioidi,N02A - Opioidi
+N02B,Drugi analgetiki in antipiretiki,N02B - Drugi analgetiki in antipiretiki
+N02C,Zdravila proti migreni,N02C - Zdravila proti migreni
+N03A,Antiepileptiki,N03A - Antiepileptiki
+N04A,Antiholinergiki,N04A - Antiholinergiki
+N04B,Dopaminergiki,N04B - Dopaminergiki
+N05A,Antipsihotiki,N05A - Antipsihotiki
+N05B,Anksiolitiki,N05B - Anksiolitiki
+N05C,Hipnotiki in sedativi,N05C - Hipnotiki in sedativi
+N06A,Antidepresivi,N06A - Antidepresivi
+N06B,"Psihostimulansi, učinkovine za zdravljenje hiperkinezije in učinkovine za obnavljanje celic CŽS","N06B - Psihostimulansi, učinkovine za zdravljenje hiperkinezije in učinkovine za obnavljanje celic CŽS"
+N06D,Zdravila za zdravljenje demence,N06D - Zdravila za zdravljenje demence
+N07A,Parasimpatikomimetiki,N07A - Parasimpatikomimetiki
+N07B,Zdravila za zdravljenje zasvojenosti,N07B - Zdravila za zdravljenje zasvojenosti
+N07C,Zdravila proti vrtoglavici,N07C - Zdravila proti vrtoglavici
+N07X,Druga zdravila z delovanjem na živčevje,N07X - Druga zdravila z delovanjem na živčevje
+P01A,Zdravila za zdravljenje ameboz in drugih protozojskih bolezni,P01A - Zdravila za zdravljenje ameboz in drugih protozojskih bolezni
+P01B,Antimalariki,P01B - Antimalariki
+P02C,"Zdravila proti boleznim, ki jih povzročajo nematodi (nitasti črvi)","P02C - Zdravila proti boleznim, ki jih povzročajo nematodi (nitasti črvi)"
+P03A,Zdravila proti parazitom zunanjih površin in proti garjam,P03A - Zdravila proti parazitom zunanjih površin in proti garjam
+R01A,Dekongestivi in druga zdravila za lokalno zdravljenje nosne sluznice,R01A - Dekongestivi in druga zdravila za lokalno zdravljenje nosne sluznice
+R03A,Inhalacijski adrenergiki,R03A - Inhalacijski adrenergiki
+R03B,"Druga zdravila za obstruktivne pljučne bolezni, za inhaliranje","R03B - Druga zdravila za obstruktivne pljučne bolezni, za inhaliranje"
+R03C,Adrenergiki za sistemsko zdravljenje,R03C - Adrenergiki za sistemsko zdravljenje
+R03D,Druga sistemska zdravila za obstruktivne pljučne bolezni,R03D - Druga sistemska zdravila za obstruktivne pljučne bolezni
+R05C,"Ekspektoransi, kombinacije brez antitusikov","R05C - Ekspektoransi, kombinacije brez antitusikov"
+R05D,"Antitusiki, kombinacije brez ekspektoransov","R05D - Antitusiki, kombinacije brez ekspektoransov"
+R06A,Antihistaminiki za sistemsko zdravljenje,R06A - Antihistaminiki za sistemsko zdravljenje
+S01A,Zdravila za preprečevanje in zdravljenje infekcij,S01A - Zdravila za preprečevanje in zdravljenje infekcij
+S01B,Protivnetna zdravila,S01B - Protivnetna zdravila
+S01C,Protivnetne učinkovine v kombinacijah s protimikrobnimi učinkovinami,S01C - Protivnetne učinkovine v kombinacijah s protimikrobnimi učinkovinami
+S01E,Zdravila za zdravljenje glavkoma in zdravila za zožitev zenice,S01E - Zdravila za zdravljenje glavkoma in zdravila za zožitev zenice
+S01F,Midriatiki in cikloplegiki,S01F - Midriatiki in cikloplegiki
+S01G,Dekongestivi in protialergijska zdravila,S01G - Dekongestivi in protialergijska zdravila
+S01X,Druga zdravila za očesne bolezni,S01X - Druga zdravila za očesne bolezni
+S03A,Zdravila za zdravljenje in preprečevanje infekcij,S03A - Zdravila za zdravljenje in preprečevanje infekcij
+V01A,Alergijo sprožajoče snovi (alergeni),V01A - Alergijo sprožajoče snovi (alergeni)
+V03A,Druga nerazvrščena zdravila za različne bolezni,V03A - Druga nerazvrščena zdravila za različne bolezni
+V06,OSNOVNA HRANILA,V06 - OSNOVNA HRANILA
+V06C,Hranila za otroke,V06C - Hranila za otroke
+V06D,Druga  hranila,V06D - Druga  hranila
+V07A,Drugi neterapevtski pripravki,V07A - Drugi neterapevtski pripravki

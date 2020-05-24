@@ -1,0 +1,344 @@
+ATC4,NAZIV,joint_name
+A01AA,Zdravila za zaščito pred zobnim kariesom,A01AA - Zdravila za zaščito pred zobnim kariesom
+A01AB,Protimikrobne učinkovine in antiseptiki za lokalno oralno zdravljenje,A01AB - Protimikrobne učinkovine in antiseptiki za lokalno oralno zdravljenje
+A01AD,Druga zdravila za lokalno oralno zdravljenje,A01AD - Druga zdravila za lokalno oralno zdravljenje
+A02AB,Aluminijeve spojine,A02AB - Aluminijeve spojine
+A02AD,"Zdravila z aluminijem, kalcijem in magnezijem","A02AD - Zdravila z aluminijem, kalcijem in magnezijem"
+A02AH,Antacidi z natrijevim hidrogenkarbonatom,A02AH - Antacidi z natrijevim hidrogenkarbonatom
+A02BA,Antagonisti histaminskih receptorjev H2,A02BA - Antagonisti histaminskih receptorjev H2
+A02BC,Zaviralci protonske črpalke,A02BC - Zaviralci protonske črpalke
+A02BX,Druga zdravila za zdravljenje peptične razjede in gastroezofagealne refluksne bolezni (GERB),A02BX - Druga zdravila za zdravljenje peptične razjede in gastroezofagealne refluksne bolezni (GERB)
+A03AA,"Sintezni antiholinergiki, estri s terciarno aminoskupino","A03AA - Sintezni antiholinergiki, estri s terciarno aminoskupino"
+A03BB,Polsintezni alkaloidi volčje češnje s kvaterno amonijevo skupino,A03BB - Polsintezni alkaloidi volčje češnje s kvaterno amonijevo skupino
+A03FA,Propulzivi,A03FA - Propulzivi
+A04AA,Antagonisti serotoninskih 5-HT3-receptorjev,A04AA - Antagonisti serotoninskih 5-HT3-receptorjev
+A04AD,Drugi antiemetiki,A04AD - Drugi antiemetiki
+A05AA,Žolčne kisline in derivati,A05AA - Žolčne kisline in derivati
+A06AD,Osmozna odvajala,A06AD - Osmozna odvajala
+A06AH,Periferno delujoči antagonisti opioidnih receptorjev,A06AH - Periferno delujoči antagonisti opioidnih receptorjev
+A06AX,Druga zdravila proti zaprtju,A06AX - Druga zdravila proti zaprtju
+A07AA,Antibiotiki,A07AA - Antibiotiki
+A07CA,Soli za peroralno rehidracijo,A07CA - Soli za peroralno rehidracijo
+A07DA,Antiperistaltiki,A07DA - Antiperistaltiki
+A07EA,Kortikosteroidi z lokalnim delovanjem,A07EA - Kortikosteroidi z lokalnim delovanjem
+A07EC,Aminosalicilna kislina in njeni derivati,A07EC - Aminosalicilna kislina in njeni derivati
+A09AA,Encimska zdravila,A09AA - Encimska zdravila
+A10AB,"Insulini in analogi za injiciranje, s hitrim delovanjem","A10AB - Insulini in analogi za injiciranje, s hitrim delovanjem"
+A10AC,"Insulini in analogi za injiciranje, s srednje dolgim delovanjem","A10AC - Insulini in analogi za injiciranje, s srednje dolgim delovanjem"
+A10AD,"Insulini in analogi za injiciranje, s srednje dolgim ali dolgotrajnim delovanjem, s takojšnjim učinkom","A10AD - Insulini in analogi za injiciranje, s srednje dolgim ali dolgotrajnim delovanjem, s takojšnjim učinkom"
+A10AE,"Insulini in analogi za injiciranje, z dolgotrajnim delovanjem","A10AE - Insulini in analogi za injiciranje, z dolgotrajnim delovanjem"
+A10BA,Bigvanidi,A10BA - Bigvanidi
+A10BB,Sulfonilsečnine,A10BB - Sulfonilsečnine
+A10BD,Kombinacije peroralnih antidiabetikov,A10BD - Kombinacije peroralnih antidiabetikov
+A10BF,Zaviralci glukozidaze alfa,A10BF - Zaviralci glukozidaze alfa
+A10BG,Tiazolindioni,A10BG - Tiazolindioni
+A10BH,Zaviralci dipeptidil-peptidaze 4 (DPP-4),A10BH - Zaviralci dipeptidil-peptidaze 4 (DPP-4)
+A10BJ,Analogi glukagonu podobnega peptida-1 (GLP-1),A10BJ - Analogi glukagonu podobnega peptida-1 (GLP-1)
+A10BK,Zaviralci natrijevih glukoznih koprenašalcev 2 (SGLT2),A10BK - Zaviralci natrijevih glukoznih koprenašalcev 2 (SGLT2)
+A10BX,Drugi antidiabetiki razen insulinov,A10BX - Drugi antidiabetiki razen insulinov
+A11CB,Vitamina  A in D v kombinacijah,A11CB - Vitamina  A in D v kombinacijah
+A11CC,Vitamin D in analogi,A11CC - Vitamin D in analogi
+A11DB,Vitamin B1 v kombinaciji z vitaminom B6 ali B12 ali obema,A11DB - Vitamin B1 v kombinaciji z vitaminom B6 ali B12 ali obema
+A11HA,Druga enokomponentna  vitaminska zdravila,A11HA - Druga enokomponentna  vitaminska zdravila
+A12AA,Kalcij,A12AA - Kalcij
+A12BA,Kalij,A12BA - Kalij
+A16AA,Aminokisline in njihovi derivati,A16AA - Aminokisline in njihovi derivati
+A16AB,Encimi,A16AB - Encimi
+A16AX,Razna zdravila za bolezni prebavil in presnove,A16AX - Razna zdravila za bolezni prebavil in presnove
+B01AA,Antagonisti vitamina K,B01AA - Antagonisti vitamina K
+B01AB,Heparinska skupina,B01AB - Heparinska skupina
+B01AC,Zaviralci agregacije trombocitov brez heparina,B01AC - Zaviralci agregacije trombocitov brez heparina
+B01AE,Direktni zaviralci trombina,B01AE - Direktni zaviralci trombina
+B01AF,Direktni zaviralci faktorja Xa,B01AF - Direktni zaviralci faktorja Xa
+B01AX,Drugi antitrombotiki,B01AX - Drugi antitrombotiki
+B02AA,Aminokisline,B02AA - Aminokisline
+B02BD,Krvni koagulacijski faktorji,B02BD - Krvni koagulacijski faktorji
+B02BX,Drugi hemostatiki za sistemsko zdravljenje,B02BX - Drugi hemostatiki za sistemsko zdravljenje
+B03AA,Zdravila z dvovalentnim železom za peroralno uporabo,B03AA - Zdravila z dvovalentnim železom za peroralno uporabo
+B03AB,Zdravila s trovalentnim železom za peroralno uporabo,B03AB - Zdravila s trovalentnim železom za peroralno uporabo
+B03AE,"Železo, druge kombinacije","B03AE - Železo, druge kombinacije"
+B03XA,Druga zdravila za zdravljenje slabokrvnosti,B03XA - Druga zdravila za zdravljenje slabokrvnosti
+B05BB,Raztopine za uravnavanje ravnotežja elektrolitov,B05BB - Raztopine za uravnavanje ravnotežja elektrolitov
+B06AC,Zdravila za zdravljenje hereditarnega angioedema,B06AC - Zdravila za zdravljenje hereditarnega angioedema
+C01AA,Digitalisovi glikozidi,C01AA - Digitalisovi glikozidi
+C01BC,Antiaritmiki skupine IC,C01BC - Antiaritmiki skupine IC
+C01BD,Antiaritmiki skupine III,C01BD - Antiaritmiki skupine III
+C01CA,Adrenergiki in dopaminergiki,C01CA - Adrenergiki in dopaminergiki
+C01DA,Organski nitrati,C01DA - Organski nitrati
+C01EB,Druga zdravila za bolezni srca,C01EB - Druga zdravila za bolezni srca
+C02AB,Metildopa,C02AB - Metildopa
+C02AC,Agonisti imidazolinskih receptorjev,C02AC - Agonisti imidazolinskih receptorjev
+C02CA,Antagonisti adrenergičnih receptorjev alfa,C02CA - Antagonisti adrenergičnih receptorjev alfa
+C02KX,Antihipertenzivi za zdravljenje pljučne arterijske hipertenzije,C02KX - Antihipertenzivi za zdravljenje pljučne arterijske hipertenzije
+C02LA,Alkaloidi rauvolfije v kombinaciji z diuretiki,C02LA - Alkaloidi rauvolfije v kombinaciji z diuretiki
+C03BA,"Sulfonamidi, enokomponentna zdravila","C03BA - Sulfonamidi, enokomponentna zdravila"
+C03CA,"Sulfonamidi, enokomponentna zdravila","C03CA - Sulfonamidi, enokomponentna zdravila"
+C03DA,Antagonisti aldosteronskih receptorjev,C03DA - Antagonisti aldosteronskih receptorjev
+C03EA,"Diuretiki dilucijskega segmenta in diuretiki, kivarčujejo s kalijem","C03EA - Diuretiki dilucijskega segmenta in diuretiki, kivarčujejo s kalijem"
+C04AD,Derivati purina,C04AD - Derivati purina
+C05CA,Bioflavonoidi,C05CA - Bioflavonoidi
+C07AA,Neselektivni antagonisti adrenergičnih receptorjev beta,C07AA - Neselektivni antagonisti adrenergičnih receptorjev beta
+C07AB,Selektivni antagonisti adrenergičnih receptorjev beta,C07AB - Selektivni antagonisti adrenergičnih receptorjev beta
+C07AG,Antagonisti adrenergičnih receptorjev alfa in beta,C07AG - Antagonisti adrenergičnih receptorjev alfa in beta
+C07BB,Selektivni antagonisti adrenergičnih receptorjev beta in tiazidi,C07BB - Selektivni antagonisti adrenergičnih receptorjev beta in tiazidi
+C07CA,Neselektivni antagonisti adrenergičnih receptorjev beta in drugi diuretiki,C07CA - Neselektivni antagonisti adrenergičnih receptorjev beta in drugi diuretiki
+C07FX,"Antagonisti adrenergičnih receptorjev beta, druge kombinacije","C07FX - Antagonisti adrenergičnih receptorjev beta, druge kombinacije"
+C08CA,Derivati dihidropiridina,C08CA - Derivati dihidropiridina
+C08DA,Fenilalkilaminski derivati,C08DA - Fenilalkilaminski derivati
+C08DB,Derivati benzotiazepina,C08DB - Derivati benzotiazepina
+C08GA,Zaviralci kalcijevih kanalčkov in diuretiki,C08GA - Zaviralci kalcijevih kanalčkov in diuretiki
+C09AA,"Zaviralci angiotenzinske konvertaze, enokomponentna zdravila","C09AA - Zaviralci angiotenzinske konvertaze, enokomponentna zdravila"
+C09BA,Zaviralci angiotenzinske konvertaze in diuretiki,C09BA - Zaviralci angiotenzinske konvertaze in diuretiki
+C09BB,Zaviralci angiotenzinske konvertaze in zaviralci kalcijevih kanalčkov,C09BB - Zaviralci angiotenzinske konvertaze in zaviralci kalcijevih kanalčkov
+C09BX,"Zaviralci angiotenzinske konvertaze, druge kombinacije","C09BX - Zaviralci angiotenzinske konvertaze, druge kombinacije"
+C09CA,"Blokatorji receptorjev za angiotenzin II (ARBs), enokomponentna zdravila","C09CA - Blokatorji receptorjev za angiotenzin II (ARBs), enokomponentna zdravila"
+C09DA,Blokatorji receptorjev za angiotenzin II (ARBs) in diuretiki,C09DA - Blokatorji receptorjev za angiotenzin II (ARBs) in diuretiki
+C09DB,Blokatorji receptorjev za angiotenzin II (ARBs) in zaviralci kalcijevih kanalčkov,C09DB - Blokatorji receptorjev za angiotenzin II (ARBs) in zaviralci kalcijevih kanalčkov
+C09DX,"Blokatorji receptorjev za angiotenzin II (ARBs), druge kombinacije","C09DX - Blokatorji receptorjev za angiotenzin II (ARBs), druge kombinacije"
+C09XA,Zaviralci renina,C09XA - Zaviralci renina
+C10AA,Zaviralci reduktaze HMG CoA,C10AA - Zaviralci reduktaze HMG CoA
+C10AB,Fibrati,C10AB - Fibrati
+C10AD,Nikotinska kislina in njeni derivati,C10AD - Nikotinska kislina in njeni derivati
+C10AX,Druga zdravila za spreminjanje ravni serumskih lipidov,C10AX - Druga zdravila za spreminjanje ravni serumskih lipidov
+C10BA,Zaviralci reduktaze HMG-CoA v kombinaciji z drugimi zdravili za spreminjanje ravni serumskih lipidov,C10BA - Zaviralci reduktaze HMG-CoA v kombinaciji z drugimi zdravili za spreminjanje ravni serumskih lipidov
+C10BX,"Zaviralci reduktaze HMG CoA, druge kombinacije","C10BX - Zaviralci reduktaze HMG CoA, druge kombinacije"
+D01AC,Derivati imidazola in triazola,D01AC - Derivati imidazola in triazola
+D01AE,Drugi antimikotiki za lokalno zdravljenje,D01AE - Drugi antimikotiki za lokalno zdravljenje
+D01BA,Antimikotiki za sistemsko zdravljenje,D01BA - Antimikotiki za sistemsko zdravljenje
+D02AE,Zdravila s sečnino,D02AE - Zdravila s sečnino
+D03AX,Druga zdravila za oskrbo brazgotin,D03AX - Druga zdravila za oskrbo brazgotin
+D04AX,Drugi antipruritiki,D04AX - Drugi antipruritiki
+D05AX,Drugi antipsoriatiki za lokalno zdravljenje,D05AX - Drugi antipsoriatiki za lokalno zdravljenje
+D05BB,Retinoidi za zdravljenje psoriaze,D05BB - Retinoidi za zdravljenje psoriaze
+D06BA,Sulfonamidi,D06BA - Sulfonamidi
+D06BB,Protivirusna zdravila,D06BB - Protivirusna zdravila
+D06BX,Drugi kemoterapevtiki,D06BX - Drugi kemoterapevtiki
+D07AB,Kortikosterodi z zmernim učinkom (skupina II),D07AB - Kortikosterodi z zmernim učinkom (skupina II)
+D07AC,Kortikosteroidi z močnim učinkom (skupina III),D07AC - Kortikosteroidi z močnim učinkom (skupina III)
+D07XB,"Kortikosteroidi z zmernim učinkom, druge kombinacije","D07XB - Kortikosteroidi z zmernim učinkom, druge kombinacije"
+D07XC,"Kortikosteroidi z močnim učinkom, druge kombinacije","D07XC - Kortikosteroidi z močnim učinkom, druge kombinacije"
+D08AX,Drugi antiseptiki in dezinficiensi,D08AX - Drugi antiseptiki in dezinficiensi
+D09AB,Cinkovi povoji,D09AB - Cinkovi povoji
+D10AD,Retinoidi za lokalno zdravljenje aken,D10AD - Retinoidi za lokalno zdravljenje aken
+D10AF,Protimikrobne učinkovine za zdravljenje aken,D10AF - Protimikrobne učinkovine za zdravljenje aken
+D10AX,Druga zdravila za lokalno zdravljenje aken,D10AX - Druga zdravila za lokalno zdravljenje aken
+D10BA,Retinoidi za zdravljenje aken,D10BA - Retinoidi za zdravljenje aken
+D11A,Druga zdravila za bolezni kože in podkožnega tkiva,D11A - Druga zdravila za bolezni kože in podkožnega tkiva
+D11AH,"Učinkovine za zdravljenje dermatitisa, razen kortikosteroidov","D11AH - Učinkovine za zdravljenje dermatitisa, razen kortikosteroidov"
+G01AA,Antibiotiki,G01AA - Antibiotiki
+G01AC,Derivati kinolina,G01AC - Derivati kinolina
+G01AD,Organske kisline,G01AD - Organske kisline
+G01AF,Derivati imidazola,G01AF - Derivati imidazola
+G01AX,Druge protimikrobne učinkovine in antiseptiki,G01AX - Druge protimikrobne učinkovine in antiseptiki
+G02BA,Intrauterini kontraceptivi (maternični vložki),G02BA - Intrauterini kontraceptivi (maternični vložki)
+G02BB,Intravaginalni kontraceptivi,G02BB - Intravaginalni kontraceptivi
+G02CB,Zaviralci prolaktina,G02CB - Zaviralci prolaktina
+G03AA,"Progestogeni in estrogeni, enofazna zdravila","G03AA - Progestogeni in estrogeni, enofazna zdravila"
+G03AB,"Progestogeni in estrogeni, dvo- ali trifazna zdravila","G03AB - Progestogeni in estrogeni, dvo- ali trifazna zdravila"
+G03AC,Progestogeni,G03AC - Progestogeni
+G03BA,Derivati 3-oksoandrost-4-ena,G03BA - Derivati 3-oksoandrost-4-ena
+G03CA,"Naravni in polsintezni estrogeni, enokomponentna zdravila","G03CA - Naravni in polsintezni estrogeni, enokomponentna zdravila"
+G03CX,Drugi estrogeni,G03CX - Drugi estrogeni
+G03DA,Derivati pregnena,G03DA - Derivati pregnena
+G03DB,Derivati pregnadiena,G03DB - Derivati pregnadiena
+G03DC,Derivati estrena,G03DC - Derivati estrena
+G03FA,"Progestogeni in estrogeni, kombinacije","G03FA - Progestogeni in estrogeni, kombinacije"
+G03FB,"Progestogeni in estrogeni, dvo- ali trifazna zdravila","G03FB - Progestogeni in estrogeni, dvo- ali trifazna zdravila"
+G03GB,Sintezni spodbujevalci ovulacije,G03GB - Sintezni spodbujevalci ovulacije
+G03HA,"Antiandrogeni, enokomponentna zdravila","G03HA - Antiandrogeni, enokomponentna zdravila"
+G03HB,Antiandrogeni in estrogeni,G03HB - Antiandrogeni in estrogeni
+G03XA,Antigonadotropini in sorodne učinkovine,G03XA - Antigonadotropini in sorodne učinkovine
+G03XB,Modulatorji progesteronskega receptorja,G03XB - Modulatorji progesteronskega receptorja
+G03XC,Selektivni modulatorji estrogenskega receptorja,G03XC - Selektivni modulatorji estrogenskega receptorja
+G04BC,Topila za  konkremente,G04BC - Topila za  konkremente
+G04BD,Zdravila za zdravljenje povečane pogostnosti uriniranja in inkontinence,G04BD - Zdravila za zdravljenje povečane pogostnosti uriniranja in inkontinence
+G04BE,Zdravila za zdravljenje erektilne disfunkcije,G04BE - Zdravila za zdravljenje erektilne disfunkcije
+G04CA,Antagonisti adrenergičnih receptorjev alfa,G04CA - Antagonisti adrenergičnih receptorjev alfa
+G04CB,Zaviralci testosteron-5-alfa reduktaze,G04CB - Zaviralci testosteron-5-alfa reduktaze
+H01AC,Somatropin in njegovi agonisti,H01AC - Somatropin in njegovi agonisti
+H01AX,Drugi hormoni prednjega režnja hipofize in sorodne učinkovine,H01AX - Drugi hormoni prednjega režnja hipofize in sorodne učinkovine
+H01BA,Vazopresin in sorodne učinkovine,H01BA - Vazopresin in sorodne učinkovine
+H01BB,Oksitocin in analogi,H01BB - Oksitocin in analogi
+H01CB,Somatostatin in analogi,H01CB - Somatostatin in analogi
+H02AB,Glukokortikoidi,H02AB - Glukokortikoidi
+H03AA,Ščitnični hormoni,H03AA - Ščitnični hormoni
+H03BA,Tiouracili,H03BA - Tiouracili
+H03BB,Derivati imidazola z žveplom,H03BB - Derivati imidazola z žveplom
+H03CA,Zdravljenje z jodom,H03CA - Zdravljenje z jodom
+H04AA,Glikogenolizni hormoni,H04AA - Glikogenolizni hormoni
+H05AA,Obščitnični hormoni in analogi,H05AA - Obščitnični hormoni in analogi
+H05BA,Zdravila s kalcitoninom,H05BA - Zdravila s kalcitoninom
+H05BX,Druge paratiroideo zavirajoče učinkovine,H05BX - Druge paratiroideo zavirajoče učinkovine
+J01AA,Tetraciklini,J01AA - Tetraciklini
+J01CA,Širokospektralni penicilini,J01CA - Širokospektralni penicilini
+J01CE,"Penicilini, občutljivi na laktamaze beta","J01CE - Penicilini, občutljivi na laktamaze beta"
+J01CF,Antistafilokokni penicilini (proti laktamazam beta odporni penicilini),J01CF - Antistafilokokni penicilini (proti laktamazam beta odporni penicilini)
+J01CR,Kombinacije penicilinov z zaviralci laktamaz beta,J01CR - Kombinacije penicilinov z zaviralci laktamaz beta
+J01DB,Cefalosporini prve generacije,J01DB - Cefalosporini prve generacije
+J01DC,Cefalosporini druge generacije,J01DC - Cefalosporini druge generacije
+J01DD,Cefalosporini tretje generacije,J01DD - Cefalosporini tretje generacije
+J01DF,Monobaktami,J01DF - Monobaktami
+J01EE,Kombinacije sulfonamidov in trimetoprima ter njegovih derivatov,J01EE - Kombinacije sulfonamidov in trimetoprima ter njegovih derivatov
+J01FA,Makrolidni antibiotiki,J01FA - Makrolidni antibiotiki
+J01FF,Piranozidni antibiotiki (linkozamidi),J01FF - Piranozidni antibiotiki (linkozamidi)
+J01GB,Drugi aminoglikozidni antibiotiki,J01GB - Drugi aminoglikozidni antibiotiki
+J01MA,Fluorokinoloni,J01MA - Fluorokinoloni
+J01MB,Drugi kinoloni,J01MB - Drugi kinoloni
+J01XB,Polimiksini,J01XB - Polimiksini
+J01XE,Derivati nitrofurana,J01XE - Derivati nitrofurana
+J01XX,Druge protimikrobne učinkovine,J01XX - Druge protimikrobne učinkovine
+J02AC,Derivati triazola,J02AC - Derivati triazola
+J04AB,Antibiotiki,J04AB - Antibiotiki
+J04AC,Hidrazidi,J04AC - Hidrazidi
+J04AK,Druga zdravila z delovanjem na Mycobacterium tuberculosis,J04AK - Druga zdravila z delovanjem na Mycobacterium tuberculosis
+J04AM,Kombinacije zdravil z delovanjem na Mycobacterium tuberculosis,J04AM - Kombinacije zdravil z delovanjem na Mycobacterium tuberculosis
+J04BA,Zdravila z delovanjem na Mycobacterium leprae,J04BA - Zdravila z delovanjem na Mycobacterium leprae
+J05AB,Nukleozidi in nukleotidi (razen zaviralcev reverzne transkriptaze),J05AB - Nukleozidi in nukleotidi (razen zaviralcev reverzne transkriptaze)
+J05AE,Zaviralci proteaz,J05AE - Zaviralci proteaz
+J05AF,Nukleotidni in nukleozidni zaviralci reverzne transkriptaze,J05AF - Nukleotidni in nukleozidni zaviralci reverzne transkriptaze
+J05AG,Zaviralci nenukleozidne reverzne transkriptaze,J05AG - Zaviralci nenukleozidne reverzne transkriptaze
+J05AH,Zaviralci nevraminidaz,J05AH - Zaviralci nevraminidaz
+J05AP,zdravila za zdravljenje infekcij z virusom hepatitisa C,J05AP - zdravila za zdravljenje infekcij z virusom hepatitisa C
+J05AR,"Zdravila za zdravljenje infekcij s HIV, kombinacije","J05AR - Zdravila za zdravljenje infekcij s HIV, kombinacije"
+J05AX,Druga zdravila za sistemsko zdravljenje virusnih infekcij,J05AX - Druga zdravila za sistemsko zdravljenje virusnih infekcij
+J06BA,Imunoglobulini humanega izvora,J06BA - Imunoglobulini humanega izvora
+J06BB,Specifični imunoglobulini,J06BB - Specifični imunoglobulini
+L01AA,Analogi dušikovih iperitov,L01AA - Analogi dušikovih iperitov
+L01AB,Alkilsulfonati,L01AB - Alkilsulfonati
+L01AX,Drugi alkilirajoči citostatiki,L01AX - Drugi alkilirajoči citostatiki
+L01BA,Analogi folne kisline,L01BA - Analogi folne kisline
+L01BB,Analogi purinskih baz,L01BB - Analogi purinskih baz
+L01BC,Analogi pirimidinskih baz,L01BC - Analogi pirimidinskih baz
+L01CB,Derivati podofilotoksina,L01CB - Derivati podofilotoksina
+L01XE,Zaviralci proteinskih kinaz,L01XE - Zaviralci proteinskih kinaz
+L01XX,Druga zdravila z delovanjem na novotvorbe (citostatiki),L01XX - Druga zdravila z delovanjem na novotvorbe (citostatiki)
+L02AB,Progestogeni,L02AB - Progestogeni
+L02AE,Analogi gonadotropin sproščajočih hormonov,L02AE - Analogi gonadotropin sproščajočih hormonov
+L02BA,Antiestrogeni,L02BA - Antiestrogeni
+L02BB,Antiandrogeni,L02BB - Antiandrogeni
+L02BG,Zaviralci aromataze,L02BG - Zaviralci aromataze
+L02BX,Drugi hormonski antagonisti in sorodne učinkovine,L02BX - Drugi hormonski antagonisti in sorodne učinkovine
+L03AA,Kolonije spodbujajoči faktorji,L03AA - Kolonije spodbujajoči faktorji
+L03AB,Interferoni,L03AB - Interferoni
+L03AX,Druga zdravila za spodbujanje imunske odzivnosti,L03AX - Druga zdravila za spodbujanje imunske odzivnosti
+L04AA,Zdravila za selektivno zaviranje imunske odzivnosti,L04AA - Zdravila za selektivno zaviranje imunske odzivnosti
+L04AB,Zaviralci tumorje-nekrotizirajočega faktorja alfa (TNF-alfa),L04AB - Zaviralci tumorje-nekrotizirajočega faktorja alfa (TNF-alfa)
+L04AC,Zaviralci interlevkinov,L04AC - Zaviralci interlevkinov
+L04AD,Zaviralci kalcinevrina,L04AD - Zaviralci kalcinevrina
+L04AX,Druga zdravila za zaviranje imunske odzivnosti,L04AX - Druga zdravila za zaviranje imunske odzivnosti
+M01AB,Derivati ocetne kisline in sorodne učinkovine,M01AB - Derivati ocetne kisline in sorodne učinkovine
+M01AC,Oksikami,M01AC - Oksikami
+M01AE,Derivati propionske kisline,M01AE - Derivati propionske kisline
+M01AH,Koksibi,M01AH - Koksibi
+M01AX,Druge nesteroidne protivnetne in protirevmatične učinkovine,M01AX - Druge nesteroidne protivnetne in protirevmatične učinkovine
+M03BX,Druge centralno delujoče učinkovine,M03BX - Druge centralno delujoče učinkovine
+M04AA,Zdravila za zaviranje nastajanja sečne kisline,M04AA - Zdravila za zaviranje nastajanja sečne kisline
+M04AC,Zdravila brez vpliva na metabolizem sečne kisline,M04AC - Zdravila brez vpliva na metabolizem sečne kisline
+M05BA,Difosfonati,M05BA - Difosfonati
+M05BB,"Difosfonati, kombinacije","M05BB - Difosfonati, kombinacije"
+M05BX,Druga zdravila z učinkom na strukturo in mineralizacijo kosti,M05BX - Druga zdravila z učinkom na strukturo in mineralizacijo kosti
+M09AX,Druga zdravila za zdravljenje motenj mišično-skeletnega sistema,M09AX - Druga zdravila za zdravljenje motenj mišično-skeletnega sistema
+N01BB,Amidi,N01BB - Amidi
+N01BX,Drugi lokalni anestetiki,N01BX - Drugi lokalni anestetiki
+N02AA,Opiati,N02AA - Opiati
+N02AB,Derivati fenilpiperidina,N02AB - Derivati fenilpiperidina
+N02AE,Derivati oripavina,N02AE - Derivati oripavina
+N02AJ,Opioidi v kombinaciji z neopioidnimi analgetiki,N02AJ - Opioidi v kombinaciji z neopioidnimi analgetiki
+N02AX,Drugi opioidi,N02AX - Drugi opioidi
+N02BA,Salicilna kislina in njeni derivati,N02BA - Salicilna kislina in njeni derivati
+N02BB,Pirazoloni,N02BB - Pirazoloni
+N02BE,Anilidi,N02BE - Anilidi
+N02CA,Alkaloidi ergot,N02CA - Alkaloidi ergot
+N02CC,Selektivni agonisti serotoninskih 5HT1 receptorjev,N02CC - Selektivni agonisti serotoninskih 5HT1 receptorjev
+N02CX,Druga zdravila proti migreni,N02CX - Druga zdravila proti migreni
+N03AA,Barbiturati in njihovi derivati,N03AA - Barbiturati in njihovi derivati
+N03AB,Derivati hidantoina,N03AB - Derivati hidantoina
+N03AD,Derivati sukcinimida,N03AD - Derivati sukcinimida
+N03AE,Benzodiazepini,N03AE - Benzodiazepini
+N03AF,Derivati karboksamida,N03AF - Derivati karboksamida
+N03AG,Derivati prostih maščobnih kislin,N03AG - Derivati prostih maščobnih kislin
+N03AX,Drugi antiepileptiki,N03AX - Drugi antiepileptiki
+N04AA,Terciarni amini,N04AA - Terciarni amini
+N04BA,Dopa in njeni derivati,N04BA - Dopa in njeni derivati
+N04BB,Derivati adamantana,N04BB - Derivati adamantana
+N04BC,Agonisti dopamina,N04BC - Agonisti dopamina
+N04BD,Zaviralci monoaminooksidaz tipa B,N04BD - Zaviralci monoaminooksidaz tipa B
+N04BX,Drugi dopaminergiki,N04BX - Drugi dopaminergiki
+N05AA,Fenotiazini z alifatsko stransko verigo,N05AA - Fenotiazini z alifatsko stransko verigo
+N05AB,Fenotiazini s piperazinovo strukturo,N05AB - Fenotiazini s piperazinovo strukturo
+N05AD,Derivati butirofenona,N05AD - Derivati butirofenona
+N05AE,Derivati indola,N05AE - Derivati indola
+N05AF,Derivati tioksantena,N05AF - Derivati tioksantena
+N05AH,"Diazepini, oksazepini, tiazepini in oksepini","N05AH - Diazepini, oksazepini, tiazepini in oksepini"
+N05AL,Benzamidi,N05AL - Benzamidi
+N05AN,Litij,N05AN - Litij
+N05AX,Drugi antipsihotiki,N05AX - Drugi antipsihotiki
+N05BA,Benzodiazepini,N05BA - Benzodiazepini
+N05BB,Derivati difenilmetana,N05BB - Derivati difenilmetana
+N05CD,Benzodiazepini,N05CD - Benzodiazepini
+N05CF,Benzodiazepinom sorodna zdravila,N05CF - Benzodiazepinom sorodna zdravila
+N05CM,Drugi hipnotiki in sedativi,N05CM - Drugi hipnotiki in sedativi
+N06AA,Neselektivni zaviralci privzema monoaminov,N06AA - Neselektivni zaviralci privzema monoaminov
+N06AB,Selektivni zaviralci privzema serotonina,N06AB - Selektivni zaviralci privzema serotonina
+N06AG,Zaviralci monoaminooksidaz A,N06AG - Zaviralci monoaminooksidaz A
+N06AX,Drugi antidepresivi,N06AX - Drugi antidepresivi
+N06BA,Simpatikomimetiki s centralnim delovanjem,N06BA - Simpatikomimetiki s centralnim delovanjem
+N06BX,Drugi psihostimulansi in učinkovine za obnavljanje celic CŽS,N06BX - Drugi psihostimulansi in učinkovine za obnavljanje celic CŽS
+N06DA,Antiholinesteraze,N06DA - Antiholinesteraze
+N06DX,Druga zdravila za zdravljenje demence,N06DX - Druga zdravila za zdravljenje demence
+N07AA,Antiholinesteraze,N07AA - Antiholinesteraze
+N07AX,Drugi parasimpatikomimetiki,N07AX - Drugi parasimpatikomimetiki
+N07BB,Zdravila za zdravljenje zasvojenosti z alkoholom,N07BB - Zdravila za zdravljenje zasvojenosti z alkoholom
+N07BC,Zdravila za zdravljenje zasvojenosti z opioidi,N07BC - Zdravila za zdravljenje zasvojenosti z opioidi
+N07CA,Zdravila proti vrtoglavici,N07CA - Zdravila proti vrtoglavici
+N07XX,Druga zdravila z delovanjem na živčevje,N07XX - Druga zdravila z delovanjem na živčevje
+P01AB,Derivati nitroimidazola,P01AB - Derivati nitroimidazola
+P01BA,Aminokinolini,P01BA - Aminokinolini
+P02CA,Derivati benzimidazola,P02CA - Derivati benzimidazola
+P03AC,Piretrini in sintezne spojine,P03AC - Piretrini in sintezne spojine
+P03AX,Druga zdravila proti parazitom zunanjih površin in proti garjam,P03AX - Druga zdravila proti parazitom zunanjih površin in proti garjam
+R01AD,Kortikosteroidi,R01AD - Kortikosteroidi
+R01AX,Druga zdravila za bolezni nosne sluznice,R01AX - Druga zdravila za bolezni nosne sluznice
+R03AC,Bronhoselektivni agonisti adrenergičnih receptorjev beta-2,R03AC - Bronhoselektivni agonisti adrenergičnih receptorjev beta-2
+R03AK,Adrenergiki v kombinaciji s kortikosteroidi ali drugimi učinkovinami razen antiholinergikov,R03AK - Adrenergiki v kombinaciji s kortikosteroidi ali drugimi učinkovinami razen antiholinergikov
+R03AL,"Adrenergiki v kombinaciji z antiholinergiki, vključno s kortikosteroidi v trojnih kombinacijah","R03AL - Adrenergiki v kombinaciji z antiholinergiki, vključno s kortikosteroidi v trojnih kombinacijah"
+R03BA,Glukokortikoidi,R03BA - Glukokortikoidi
+R03BB,Antiholinergiki,R03BB - Antiholinergiki
+R03CC,Bronhoselektivni agonisti adrenergičnih receptorjev beta-2,R03CC - Bronhoselektivni agonisti adrenergičnih receptorjev beta-2
+R03DA,Ksantini,R03DA - Ksantini
+R03DC,Antagonisti levkotrienskih receptorjev,R03DC - Antagonisti levkotrienskih receptorjev
+R03DX,Druga sistemska zdravila za obstruktivne pljučne bolezni,R03DX - Druga sistemska zdravila za obstruktivne pljučne bolezni
+R05CB,Mukolitiki,R05CB - Mukolitiki
+R05DA,Opijevi alkaloidi in njihovi derivati,R05DA - Opijevi alkaloidi in njihovi derivati
+R06AB,Substituirani alkilamini,R06AB - Substituirani alkilamini
+R06AD,Derivati fenotiazina,R06AD - Derivati fenotiazina
+R06AE,Derivati piperazina,R06AE - Derivati piperazina
+R06AX,Drugi antihistaminiki za sistemsko zdravljenje,R06AX - Drugi antihistaminiki za sistemsko zdravljenje
+S01AA,Antibiotiki,S01AA - Antibiotiki
+S01AD,Protivirusna zdravila,S01AD - Protivirusna zdravila
+S01AE,Fluorokinoloni,S01AE - Fluorokinoloni
+S01AX,Druga zdravila za preprečevanje in zdravljenje infekcij,S01AX - Druga zdravila za preprečevanje in zdravljenje infekcij
+S01BA,"Kortikosteroidi, enokomponentna zdravila","S01BA - Kortikosteroidi, enokomponentna zdravila"
+S01BC,Nesteroidna protivnetna zdravila,S01BC - Nesteroidna protivnetna zdravila
+S01CA,Kortikosteroidi v kombinaciji s protimikrobnimi učinkovinami,S01CA - Kortikosteroidi v kombinaciji s protimikrobnimi učinkovinami
+S01EA,Simpatikomimetiki za zdravljenje glavkoma (zelene mrene),S01EA - Simpatikomimetiki za zdravljenje glavkoma (zelene mrene)
+S01EB,Parasimpatikomimetiki,S01EB - Parasimpatikomimetiki
+S01EC,Zaviralci karboanhidraze,S01EC - Zaviralci karboanhidraze
+S01ED,Antagonisti adrenergičnih receptorjev beta,S01ED - Antagonisti adrenergičnih receptorjev beta
+S01EE,Analogi prostaglandina,S01EE - Analogi prostaglandina
+S01FA,Antiholinergiki,S01FA - Antiholinergiki
+S01FB,"Simpatikomimetiki, brez zdravil za zdravljenje glavkoma","S01FB - Simpatikomimetiki, brez zdravil za zdravljenje glavkoma"
+S01GX,Druga protialergijska zdravila,S01GX - Druga protialergijska zdravila
+S01XA,Druga zdravila za očesne bolezni,S01XA - Druga zdravila za očesne bolezni
+S03AA,Zdravila za zdravljenje in preprečevanje infekcij,S03AA - Zdravila za zdravljenje in preprečevanje infekcij
+V01AA,Alergenski ekstrakti,V01AA - Alergenski ekstrakti
+V03AC,Kelirajoča sredstva za zdravljenje akutnih zastrupitev z železom,V03AC - Kelirajoča sredstva za zdravljenje akutnih zastrupitev z železom
+V03AE,Zdravila za zdravljenje hiperkaliemije in hiperfosfatemije,V03AE - Zdravila za zdravljenje hiperkaliemije in hiperfosfatemije
+V03AG,Zdravila za zdravljenje hiperkalciemije,V03AG - Zdravila za zdravljenje hiperkalciemije
+V06,OSNOVNA HRANILA,V06 - OSNOVNA HRANILA
+V06C,Hranila za otroke,V06C - Hranila za otroke
+V06CA,Hranila brez fenilalanina,V06CA - Hranila brez fenilalanina
+V06DB,"Maščobe, ogljikovi hidrati, proteini, minerali in vitamini, kombinacije","V06DB - Maščobe, ogljikovi hidrati, proteini, minerali in vitamini, kombinacije"
+V06DF,Mlečni nadomestki,V06DF - Mlečni nadomestki
+V06DX,Druge kombinacije hranil,V06DX - Druge kombinacije hranil
+V07AB,"Raztopine in pripravki za redčenje, vključno s tekočinami za izpiranje","V07AB - Raztopine in pripravki za redčenje, vključno s tekočinami za izpiranje"

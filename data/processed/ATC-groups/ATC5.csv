@@ -1,0 +1,831 @@
+ATC5,NAZIV,joint_name
+A01AA01,natrijev fluorid,A01AA01 - natrijev fluorid
+A01AA51,"natrijev fluorid, kombinacije","A01AA51 - natrijev fluorid, kombinacije"
+A01AB09,mikonazol,A01AB09 - mikonazol
+A01AD11,razne učinkovine,A01AD11 - razne učinkovine
+A02AB01,aluminijev hidroksid,A02AB01 - aluminijev hidroksid
+A02AD04,hidrotalcit,A02AD04 - hidrotalcit
+A02AH,Antacidi z natrijevim hidrogenkarbonatom,A02AH - Antacidi z natrijevim hidrogenkarbonatom
+A02BA02,ranitidin,A02BA02 - ranitidin
+A02BA03,famotidin,A02BA03 - famotidin
+A02BC01,omeprazol,A02BC01 - omeprazol
+A02BC02,pantoprazol,A02BC02 - pantoprazol
+A02BC03,lansoprazol,A02BC03 - lansoprazol
+A02BC05,esomeprazol,A02BC05 - esomeprazol
+A02BX02,sukralfat (aluminijev saharozni sulfat),A02BX02 - sukralfat (aluminijev saharozni sulfat)
+A02BX05,bazični bizmutov citrat,A02BX05 - bazični bizmutov citrat
+A03AA04,mebeverin,A03AA04 - mebeverin
+A03BB01,butilskopolamin,A03BB01 - butilskopolamin
+A03FA01,metoklopramid,A03FA01 - metoklopramid
+A03FA03,domperidon,A03FA03 - domperidon
+A04AA01,ondansetron,A04AA01 - ondansetron
+A04AA02,granisetron,A04AA02 - granisetron
+A04AA03,tropisetron,A04AA03 - tropisetron
+A04AA55,"palonosetron, kombinacije","A04AA55 - palonosetron, kombinacije"
+A04AD01,skopolamin,A04AD01 - skopolamin
+A04AD12,aprepitant,A04AD12 - aprepitant
+A05AA02,ursodeoksiholna kislina,A05AA02 - ursodeoksiholna kislina
+A05AA04,obetiholna kislina,A05AA04 - obetiholna kislina
+A06AD,Osmozna odvajala,A06AD - Osmozna odvajala
+A06AD11,laktuloza,A06AD11 - laktuloza
+A06AD12,laktitol,A06AD12 - laktitol
+A06AH01,metilnaltreksonijev bromid,A06AH01 - metilnaltreksonijev bromid
+A06AH03,naloksegol,A06AH03 - naloksegol
+A06AX01,glicerol,A06AX01 - glicerol
+A07AA,Antibiotiki,A07AA - Antibiotiki
+A07CA,Soli za peroralno rehidracijo,A07CA - Soli za peroralno rehidracijo
+A07DA03,loperamid,A07DA03 - loperamid
+A07EA06,budezonid,A07EA06 - budezonid
+A07EC01,sulfasalazin (salazosulfapiridin),A07EC01 - sulfasalazin (salazosulfapiridin)
+A07EC02,mesalazin,A07EC02 - mesalazin
+A09AA02,"multiencimska zdravila (lipaze, proteaze)","A09AA02 - multiencimska zdravila (lipaze, proteaze)"
+A10AB01,humani insulin,A10AB01 - humani insulin
+A10AB04,insulin lispro,A10AB04 - insulin lispro
+A10AB05,insulin aspart,A10AB05 - insulin aspart
+A10AB06,insulin glulizin,A10AB06 - insulin glulizin
+A10AC01,humani insulin,A10AC01 - humani insulin
+A10AD01,humani insulin,A10AD01 - humani insulin
+A10AD04,insulin lispro,A10AD04 - insulin lispro
+A10AD05,insulin aspart,A10AD05 - insulin aspart
+A10AE04,insulin glargin,A10AE04 - insulin glargin
+A10AE05,insulin detemir,A10AE05 - insulin detemir
+A10AE06,insulin degludek,A10AE06 - insulin degludek
+A10AE54,insulin glargin in liksizenatid,A10AE54 - insulin glargin in liksizenatid
+A10AE56,insulin degludek in liraglutid,A10AE56 - insulin degludek in liraglutid
+A10BA02,metformin,A10BA02 - metformin
+A10BB01,glibenklamid,A10BB01 - glibenklamid
+A10BB07,glipizid,A10BB07 - glipizid
+A10BB08,glikvidon,A10BB08 - glikvidon
+A10BB09,gliklazid,A10BB09 - gliklazid
+A10BB12,glimepirid,A10BB12 - glimepirid
+A10BD02,metformin in sulfonilsečnine,A10BD02 - metformin in sulfonilsečnine
+A10BD03,metformin in rosiglitazon,A10BD03 - metformin in rosiglitazon
+A10BD07,metformin in sitagliptin,A10BD07 - metformin in sitagliptin
+A10BD08,metformin in vildagliptin,A10BD08 - metformin in vildagliptin
+A10BD09,pioglitazon in alogliptin,A10BD09 - pioglitazon in alogliptin
+A10BD10,metformin in saksagliptin,A10BD10 - metformin in saksagliptin
+A10BD11,metformin in linagliptin,A10BD11 - metformin in linagliptin
+A10BD13,metformin in alogliptin,A10BD13 - metformin in alogliptin
+A10BD15,metformin in dapagliflozin,A10BD15 - metformin in dapagliflozin
+A10BD20,metformin in empagliflozin,A10BD20 - metformin in empagliflozin
+A10BF01,akarboza,A10BF01 - akarboza
+A10BG02,rosiglitazon,A10BG02 - rosiglitazon
+A10BH01,sitagliptin,A10BH01 - sitagliptin
+A10BH02,vildagliptin,A10BH02 - vildagliptin
+A10BH03,saksagliptin,A10BH03 - saksagliptin
+A10BH04,alogliptin,A10BH04 - alogliptin
+A10BH05,linagliptin,A10BH05 - linagliptin
+A10BJ01,eksenatid,A10BJ01 - eksenatid
+A10BJ02,liraglutid,A10BJ02 - liraglutid
+A10BJ03,liksizenatid,A10BJ03 - liksizenatid
+A10BJ05,dulaglutid,A10BJ05 - dulaglutid
+A10BJ06,semaglutid,A10BJ06 - semaglutid
+A10BK01,dapagliflozin,A10BK01 - dapagliflozin
+A10BK03,empagliflozin,A10BK03 - empagliflozin
+A10BX02,repaglinid,A10BX02 - repaglinid
+A11CB,Vitamina  A in D v kombinacijah,A11CB - Vitamina  A in D v kombinacijah
+A11CC03,alfakalcidol (kalcidiol),A11CC03 - alfakalcidol (kalcidiol)
+A11CC04,kalcitriol,A11CC04 - kalcitriol
+A11CC05,holekalciferol,A11CC05 - holekalciferol
+A11DB,Vitamin B1 v kombinaciji z vitaminom B6 ali B12 ali obema,A11DB - Vitamin B1 v kombinaciji z vitaminom B6 ali B12 ali obema
+A11HA02,piridoksin (vitamin B6),A11HA02 - piridoksin (vitamin B6)
+A11HA31,kalcijev pantotenat,A11HA31 - kalcijev pantotenat
+A12AA04,kalcijev karbonat,A12AA04 - kalcijev karbonat
+A12BA01,kalijev klorid,A12BA01 - kalijev klorid
+A12BA30,kombinacije kalijevih soli,A12BA30 - kombinacije kalijevih soli
+A16AA01,levokarnitin,A16AA01 - levokarnitin
+A16AA04,merkaptamin,A16AA04 - merkaptamin
+A16AA06,betain,A16AA06 - betain
+A16AB02,imigluceraza,A16AB02 - imigluceraza
+A16AB03,agalzidaza alfa,A16AB03 - agalzidaza alfa
+A16AB04,agalzidaza beta,A16AB04 - agalzidaza beta
+A16AB10,velagluceraza alfa,A16AB10 - velagluceraza alfa
+A16AX05,cinkov acetat,A16AX05 - cinkov acetat
+A16AX06,miglustat,A16AX06 - miglustat
+A16AX12,trientin,A16AX12 - trientin
+B01AA03,varfarin,B01AA03 - varfarin
+B01AA07,acenokumarol,B01AA07 - acenokumarol
+B01AB04,dalteparin,B01AB04 - dalteparin
+B01AB05,enoksaparin,B01AB05 - enoksaparin
+B01AB06,nadroparin,B01AB06 - nadroparin
+B01AB08,reviparin,B01AB08 - reviparin
+B01AC04,klopidogrel,B01AC04 - klopidogrel
+B01AC05,tiklopidin,B01AC05 - tiklopidin
+B01AC06,acetilsalicilna kislina,B01AC06 - acetilsalicilna kislina
+B01AC11,iloprost,B01AC11 - iloprost
+B01AC21,treprostinil,B01AC21 - treprostinil
+B01AC22,prasugrel,B01AC22 - prasugrel
+B01AC24,ticagrelor,B01AC24 - ticagrelor
+B01AC30,kombinacije,B01AC30 - kombinacije
+B01AE07,dabigatraneteksilat,B01AE07 - dabigatraneteksilat
+B01AF01,rivaroksaban,B01AF01 - rivaroksaban
+B01AF02,apiksaban,B01AF02 - apiksaban
+B01AX05,fondaparinuks,B01AX05 - fondaparinuks
+B02AA02,traneksaminska kislina,B02AA02 - traneksaminska kislina
+B02BD02,koagulacijski faktor VIII,B02BD02 - koagulacijski faktor VIII
+B02BD03,zaviralci inhibitorjev faktorja VIII,B02BD03 - zaviralci inhibitorjev faktorja VIII
+B02BD04,koagulacijski faktor IX,B02BD04 - koagulacijski faktor IX
+B02BD06,kombinacija von willebrandovega faktorja in koagulacijskega faktorja VIII,B02BD06 - kombinacija von willebrandovega faktorja in koagulacijskega faktorja VIII
+B02BD08,koagulacijski faktor VIIa,B02BD08 - koagulacijski faktor VIIa
+B02BX04,romiplostim,B02BX04 - romiplostim
+B02BX05,eltrombopag,B02BX05 - eltrombopag
+B02BX06,emicizumab,B02BX06 - emicizumab
+B03AA07,železov(II) sulfat,B03AA07 - železov(II) sulfat
+B03AB05,kompleksi železovega(III) oksida in polimaltoze,B03AB05 - kompleksi železovega(III) oksida in polimaltoze
+B03AB09,železov(III) proteinsukcinilat,B03AB09 - železov(III) proteinsukcinilat
+B03AE10,"železo, razne kombinacije","B03AE10 - železo, razne kombinacije"
+B03XA01,eritropoetin,B03XA01 - eritropoetin
+B03XA02,darbepoetin alfa,B03XA02 - darbepoetin alfa
+B03XA03,metoksipolietilenglikol epoetin beta,B03XA03 - metoksipolietilenglikol epoetin beta
+B05BB01,elektroliti,B05BB01 - elektroliti
+B06AC02,ikatibant,B06AC02 - ikatibant
+C01AA08,metildigoksin,C01AA08 - metildigoksin
+C01BC03,propafenon,C01BC03 - propafenon
+C01BD01,amjodaron,C01BD01 - amjodaron
+C01BD07,dronedaron,C01BD07 - dronedaron
+C01CA24,adrenalin,C01CA24 - adrenalin
+C01DA02,gliceriltrinitrat,C01DA02 - gliceriltrinitrat
+C01DA14,izosorbidmononitrat,C01DA14 - izosorbidmononitrat
+C01EB15,trimetazidin,C01EB15 - trimetazidin
+C01EB17,ivabradin,C01EB17 - ivabradin
+C01EB18,ranolazin,C01EB18 - ranolazin
+C02AB01,L-metildopa,C02AB01 - L-metildopa
+C02AC05,moksonidin,C02AC05 - moksonidin
+C02CA01,prazosin,C02CA01 - prazosin
+C02CA04,doksazosin,C02CA04 - doksazosin
+C02KX01,bosentan,C02KX01 - bosentan
+C02KX02,ambrisentan,C02KX02 - ambrisentan
+C02KX05,riociguat,C02KX05 - riociguat
+C02LA51,"reserpin in diuretiki, kombinacije z drugimi učinkovinami","C02LA51 - reserpin in diuretiki, kombinacije z drugimi učinkovinami"
+C03BA04,klortalidon,C03BA04 - klortalidon
+C03BA10,ksipamid,C03BA10 - ksipamid
+C03BA11,indapamid,C03BA11 - indapamid
+C03CA01,furosemid,C03CA01 - furosemid
+C03CA04,torasemid,C03CA04 - torasemid
+C03DA01,spironolakton,C03DA01 - spironolakton
+C03DA04,eplerenon,C03DA04 - eplerenon
+C03EA01,"hidroklorotiazid in diuretiki, ki varčujejo s kalijem","C03EA01 - hidroklorotiazid in diuretiki, ki varčujejo s kalijem"
+C04AD03,pentoksifilin,C04AD03 - pentoksifilin
+C05CA53,"diosmin, kombinacije","C05CA53 - diosmin, kombinacije"
+C07AA05,propranolol,C07AA05 - propranolol
+C07AA07,sotalol,C07AA07 - sotalol
+C07AB02,metoprolol,C07AB02 - metoprolol
+C07AB03,atenolol,C07AB03 - atenolol
+C07AB07,bisoprolol,C07AB07 - bisoprolol
+C07AB12,nebivolol,C07AB12 - nebivolol
+C07AG02,karvedilol,C07AG02 - karvedilol
+C07BB07,bisoprolol in tiazidi,C07BB07 - bisoprolol in tiazidi
+C07BB12,nebivolol in tiazidi,C07BB12 - nebivolol in tiazidi
+C07CA03,pindolol in drugi diuretiki,C07CA03 - pindolol in drugi diuretiki
+C07FX04,bisoprolol in acetilsalicilna kislina,C07FX04 - bisoprolol in acetilsalicilna kislina
+C08CA01,amlodipin,C08CA01 - amlodipin
+C08CA05,nifedipin,C08CA05 - nifedipin
+C08CA06,nimodipin,C08CA06 - nimodipin
+C08CA08,nitrendipin,C08CA08 - nitrendipin
+C08CA09,lacidipin,C08CA09 - lacidipin
+C08CA13,lerkanidipin,C08CA13 - lerkanidipin
+C08DA01,verapamil,C08DA01 - verapamil
+C08DB01,diltiazem,C08DB01 - diltiazem
+C08GA02,amlodipin in diuretiki,C08GA02 - amlodipin in diuretiki
+C09AA01,kaptopril,C09AA01 - kaptopril
+C09AA02,enalapril,C09AA02 - enalapril
+C09AA03,lizinopril,C09AA03 - lizinopril
+C09AA04,perindopril,C09AA04 - perindopril
+C09AA05,ramipril,C09AA05 - ramipril
+C09AA08,cilazapril,C09AA08 - cilazapril
+C09AA09,fozinopril,C09AA09 - fozinopril
+C09AA10,trandolapril,C09AA10 - trandolapril
+C09AA15,zofenopril,C09AA15 - zofenopril
+C09BA02,enalapril in diuretiki,C09BA02 - enalapril in diuretiki
+C09BA03,lizinopril in diuretiki,C09BA03 - lizinopril in diuretiki
+C09BA04,perindopril in diuretiki,C09BA04 - perindopril in diuretiki
+C09BA05,ramipril in diuretiki,C09BA05 - ramipril in diuretiki
+C09BA09,fozinopril in diuretiki,C09BA09 - fozinopril in diuretiki
+C09BA15,zofenopril in diuretiki,C09BA15 - zofenopril in diuretiki
+C09BB02,enalapril in lerkanidipin,C09BB02 - enalapril in lerkanidipin
+C09BB04,perindopril in amlodipin,C09BB04 - perindopril in amlodipin
+C09BB07,ramipril in amlodipin,C09BB07 - ramipril in amlodipin
+C09BB10,trandolapril in verapamil,C09BB10 - trandolapril in verapamil
+C09BX01,"perindopril, amlodipin in indapamid","C09BX01 - perindopril, amlodipin in indapamid"
+C09BX02,bisoprolol in perindopril,C09BX02 - bisoprolol in perindopril
+C09CA01,losartan,C09CA01 - losartan
+C09CA03,valsartan,C09CA03 - valsartan
+C09CA04,irbesartan,C09CA04 - irbesartan
+C09CA06,kandesartan,C09CA06 - kandesartan
+C09CA07,telmisartan,C09CA07 - telmisartan
+C09DA01,losartan in diuretiki,C09DA01 - losartan in diuretiki
+C09DA03,valsartan in diuretiki,C09DA03 - valsartan in diuretiki
+C09DA04,irbesartan in diuretiki,C09DA04 - irbesartan in diuretiki
+C09DA06,kandesartan in diuretiki,C09DA06 - kandesartan in diuretiki
+C09DA07,telmisartan in diuretiki,C09DA07 - telmisartan in diuretiki
+C09DB01,valsartan in amlodipin,C09DB01 - valsartan in amlodipin
+C09DB04,telmisartan in amlodipin,C09DB04 - telmisartan in amlodipin
+C09DB07,kandesartan in amlodipin,C09DB07 - kandesartan in amlodipin
+C09DX01,"valsartan, amlodipin in hidroklorotiazid","C09DX01 - valsartan, amlodipin in hidroklorotiazid"
+C09DX04,valsartan in sakubitril,C09DX04 - valsartan in sakubitril
+C09XA02,aliskiren,C09XA02 - aliskiren
+C09XA52,aliskiren in hidroklorotiazid,C09XA52 - aliskiren in hidroklorotiazid
+C10AA01,simvastatin,C10AA01 - simvastatin
+C10AA02,lovastatin,C10AA02 - lovastatin
+C10AA03,pravastatin,C10AA03 - pravastatin
+C10AA04,fluvastatin,C10AA04 - fluvastatin
+C10AA05,atorvastatin,C10AA05 - atorvastatin
+C10AA07,rosuvastatin,C10AA07 - rosuvastatin
+C10AB04,gemfibrozil,C10AB04 - gemfibrozil
+C10AB05,fenofibrat,C10AB05 - fenofibrat
+C10AD52,"nikotinska kislina, kombinacije","C10AD52 - nikotinska kislina, kombinacije"
+C10AX09,ezetimib,C10AX09 - ezetimib
+C10AX13,evolokumab,C10AX13 - evolokumab
+C10AX14,alirokumab,C10AX14 - alirokumab
+C10BA02,simvastatin in ezetimib,C10BA02 - simvastatin in ezetimib
+C10BA04,simvastatin in fenofibrat,C10BA04 - simvastatin in fenofibrat
+C10BA06,rosuvastatin in ezetimib,C10BA06 - rosuvastatin in ezetimib
+C10BX03,atorvastatin in amlodipin,C10BX03 - atorvastatin in amlodipin
+C10BX09,rosuvastatin in amlodipin,C10BX09 - rosuvastatin in amlodipin
+C10BX10,rosuvastatin in valsartan,C10BX10 - rosuvastatin in valsartan
+C10BX11,"atorvastatin, amlodipin in perindopril","C10BX11 - atorvastatin, amlodipin in perindopril"
+C10BX13,"rosuvastatin, perindopril in indapamid","C10BX13 - rosuvastatin, perindopril in indapamid"
+D01AC01,klotrimazol,D01AC01 - klotrimazol
+D01AC02,mikonazol,D01AC02 - mikonazol
+D01AC08,ketokonazol,D01AC08 - ketokonazol
+D01AC10,bifonazol,D01AC10 - bifonazol
+D01AE15,terbinafin,D01AE15 - terbinafin
+D01BA02,terbinafin,D01BA02 - terbinafin
+D02AE01,sečnina,D02AE01 - sečnina
+D03AX03,dekspantenol,D03AX03 - dekspantenol
+D04AX,Drugi antipruritiki,D04AX - Drugi antipruritiki
+D05AX02,kalcipotriol,D05AX02 - kalcipotriol
+D05AX52,"kalcipotriol, kombinacije","D05AX52 - kalcipotriol, kombinacije"
+D05BB02,acitretin,D05BB02 - acitretin
+D06BA01,srebrov sulfadiazinat,D06BA01 - srebrov sulfadiazinat
+D06BB10,imikimod,D06BB10 - imikimod
+D06BX01,metronidazol,D06BX01 - metronidazol
+D06BX02,ingenolmebutat,D06BX02 - ingenolmebutat
+D07AB02,hidrokortizonbutirat,D07AB02 - hidrokortizonbutirat
+D07AB10,alklometazon,D07AB10 - alklometazon
+D07AC01,betametazon,D07AC01 - betametazon
+D07AC13,mometazon,D07AC13 - mometazon
+D07AC14,metilprednizolonaceponat,D07AC14 - metilprednizolonaceponat
+D07XB01,flumetazon,D07XB01 - flumetazon
+D07XC01,betametazon,D07XC01 - betametazon
+D08AX01,vodikov peroksid,D08AX01 - vodikov peroksid
+D09AB,Cinkovi povoji,D09AB - Cinkovi povoji
+D10AD03,adapalen,D10AD03 - adapalen
+D10AF01,klindamicin,D10AF01 - klindamicin
+D10AF51,"klindamicin, kombinacije","D10AF51 - klindamicin, kombinacije"
+D10AX,Druga zdravila za lokalno zdravljenje aken,D10AX - Druga zdravila za lokalno zdravljenje aken
+D10AX03,azelainska kislina,D10AX03 - azelainska kislina
+D10BA01,izotretinoin,D10BA01 - izotretinoin
+D11A,Druga zdravila za bolezni kože in podkožnega tkiva,D11A - Druga zdravila za bolezni kože in podkožnega tkiva
+D11AH01,takrolimus,D11AH01 - takrolimus
+D11AH02,pimekrolimus,D11AH02 - pimekrolimus
+D11AH04,alitretinoin,D11AH04 - alitretinoin
+D11AH05,dupilumab,D11AH05 - dupilumab
+G01AA10,klindamicin,G01AA10 - klindamicin
+G01AC05,dekalinium,G01AC05 - dekalinium
+G01AD01,mlečna kislina,G01AD01 - mlečna kislina
+G01AF02,klotrimazol,G01AF02 - klotrimazol
+G01AF04,mikonazol,G01AF04 - mikonazol
+G01AX11,povidon-jod,G01AX11 - povidon-jod
+G02BA03,plastični maternični vložki z dodatkom progestogenov,G02BA03 - plastični maternični vložki z dodatkom progestogenov
+G02BB01,vaginalni obroček s progestogenom in estrogenom,G02BB01 - vaginalni obroček s progestogenom in estrogenom
+G02CB01,bromokriptin,G02CB01 - bromokriptin
+G03AA07,levonorgestrel in etinilestradiol,G03AA07 - levonorgestrel in etinilestradiol
+G03AA09,dezogestrel in etinilestradiol,G03AA09 - dezogestrel in etinilestradiol
+G03AA10,gestoden in etinilestradiol,G03AA10 - gestoden in etinilestradiol
+G03AA11,norgestimat in etinilestradiol,G03AA11 - norgestimat in etinilestradiol
+G03AA12,drospirenon in etinilestradiol,G03AA12 - drospirenon in etinilestradiol
+G03AA13,norelgestromin in etinilestradiol,G03AA13 - norelgestromin in etinilestradiol
+G03AA14,nomegestrol in estradiol,G03AA14 - nomegestrol in estradiol
+G03AA15,klormadinon in etinilestradiol,G03AA15 - klormadinon in etinilestradiol
+G03AA16,dienogest in etinilestradiol,G03AA16 - dienogest in etinilestradiol
+G03AB03,levonorgestrel in etinilestradiol,G03AB03 - levonorgestrel in etinilestradiol
+G03AB04,noretisteron in etinilestradiol,G03AB04 - noretisteron in etinilestradiol
+G03AB08,dienogest in estradiol,G03AB08 - dienogest in estradiol
+G03AC09,dezogestrel,G03AC09 - dezogestrel
+G03BA03,testosteron,G03BA03 - testosteron
+G03CA03,estradiol,G03CA03 - estradiol
+G03CA04,estriol,G03CA04 - estriol
+G03CX01,tibolon,G03CX01 - tibolon
+G03DA04,progesteron,G03DA04 - progesteron
+G03DB01,didrogesteron,G03DB01 - didrogesteron
+G03DB08,dienogest,G03DB08 - dienogest
+G03DC02,noretisteron,G03DC02 - noretisteron
+G03DC03,linestrenol,G03DC03 - linestrenol
+G03FA,"Progestogeni in estrogeni, kombinacije","G03FA - Progestogeni in estrogeni, kombinacije"
+G03FA01,noretisteron in estrogen,G03FA01 - noretisteron in estrogen
+G03FB01,norgestrel in estrogen,G03FB01 - norgestrel in estrogen
+G03FB05,noretisteron in estrogen,G03FB05 - noretisteron in estrogen
+G03GB02,klomifen,G03GB02 - klomifen
+G03HA01,ciproteron,G03HA01 - ciproteron
+G03HB01,ciproteron in estrogen,G03HB01 - ciproteron in estrogen
+G03XA01,danazol,G03XA01 - danazol
+G03XB02,ulipristal,G03XB02 - ulipristal
+G03XC01,raloksifen,G03XC01 - raloksifen
+G04BC,Topila za  konkremente,G04BC - Topila za  konkremente
+G04BD06,propiverin,G04BD06 - propiverin
+G04BD07,tolterodin,G04BD07 - tolterodin
+G04BD08,solifenacin,G04BD08 - solifenacin
+G04BD09,trospium,G04BD09 - trospium
+G04BD10,darifenacin,G04BD10 - darifenacin
+G04BD11,fezoterodin,G04BD11 - fezoterodin
+G04BD12,mirabegron,G04BD12 - mirabegron
+G04BE01,alprostadil,G04BE01 - alprostadil
+G04BE03,sildenafil,G04BE03 - sildenafil
+G04CA02,tamsulozin,G04CA02 - tamsulozin
+G04CA03,terazosin,G04CA03 - terazosin
+G04CA52,tamsulozin in dutasterid,G04CA52 - tamsulozin in dutasterid
+G04CA53,tamsulozin in solifenacin,G04CA53 - tamsulozin in solifenacin
+G04CB01,finasterid,G04CB01 - finasterid
+G04CB02,dutasterid,G04CB02 - dutasterid
+H01AC01,somatropin,H01AC01 - somatropin
+H01AX01,pegvisomant,H01AX01 - pegvisomant
+H01BA02,dezmopresin,H01BA02 - dezmopresin
+H01BB02,oksitocin,H01BB02 - oksitocin
+H01CB02,oktreotid,H01CB02 - oktreotid
+H01CB03,lanreotid,H01CB03 - lanreotid
+H01CB05,pasireotid,H01CB05 - pasireotid
+H02AB02,deksametazon,H02AB02 - deksametazon
+H02AB04,metilprednizolon,H02AB04 - metilprednizolon
+H02AB09,hidrokortizon,H02AB09 - hidrokortizon
+H03AA01,natrijev levotiroksinat,H03AA01 - natrijev levotiroksinat
+H03BA02,propiltiouracil,H03BA02 - propiltiouracil
+H03BB02,tiamazol,H03BB02 - tiamazol
+H03CA,Zdravljenje z jodom,H03CA - Zdravljenje z jodom
+H04AA01,glukagon,H04AA01 - glukagon
+H05AA02,teriparatid,H05AA02 - teriparatid
+H05BA01,sintezni lososov kalcitonin,H05BA01 - sintezni lososov kalcitonin
+H05BX01,cinakalcet,H05BX01 - cinakalcet
+H05BX02,parikalcitol,H05BX02 - parikalcitol
+J01AA02,doksiciklin,J01AA02 - doksiciklin
+J01CA04,amoksicilin,J01CA04 - amoksicilin
+J01CE02,fenoksimetilpenicilin,J01CE02 - fenoksimetilpenicilin
+J01CE10,benzatinijev fenoksimetilpenicilinat,J01CE10 - benzatinijev fenoksimetilpenicilinat
+J01CF02,kloksacilin,J01CF02 - kloksacilin
+J01CF05,flukloksacilin,J01CF05 - flukloksacilin
+J01CR02,amoksicilin in zaviralec laktamaz beta,J01CR02 - amoksicilin in zaviralec laktamaz beta
+J01DB01,cefaleksin,J01DB01 - cefaleksin
+J01DB05,cefadroksil,J01DB05 - cefadroksil
+J01DC02,cefuroksim,J01DC02 - cefuroksim
+J01DC04,cefaklor,J01DC04 - cefaklor
+J01DC10,cefprozil,J01DC10 - cefprozil
+J01DD08,cefiksim,J01DD08 - cefiksim
+J01DD14,ceftibuten,J01DD14 - ceftibuten
+J01DF01,aztreonam,J01DF01 - aztreonam
+J01EE01,sulfametoksazol in trimetoprim,J01EE01 - sulfametoksazol in trimetoprim
+J01FA01,eritromicin,J01FA01 - eritromicin
+J01FA03,midekamicin,J01FA03 - midekamicin
+J01FA06,roksitromicin,J01FA06 - roksitromicin
+J01FA09,klaritromicin,J01FA09 - klaritromicin
+J01FA10,azitromicin,J01FA10 - azitromicin
+J01FA11,miokamicin,J01FA11 - miokamicin
+J01FF01,klindamicin,J01FF01 - klindamicin
+J01GB01,tobramicin,J01GB01 - tobramicin
+J01MA02,ciprofloksacin,J01MA02 - ciprofloksacin
+J01MA03,pefloksacin,J01MA03 - pefloksacin
+J01MA06,norfloksacin,J01MA06 - norfloksacin
+J01MA12,levofloksacin,J01MA12 - levofloksacin
+J01MA14,moksifloksacin,J01MA14 - moksifloksacin
+J01MB04,pipemidna kislina,J01MB04 - pipemidna kislina
+J01XB01,kolistin,J01XB01 - kolistin
+J01XE01,nitrofurantoin,J01XE01 - nitrofurantoin
+J01XX01,fosfomicin,J01XX01 - fosfomicin
+J01XX08,linezolid,J01XX08 - linezolid
+J01XX11,tedizolid,J01XX11 - tedizolid
+J02AC01,flukonazol,J02AC01 - flukonazol
+J02AC02,itrakonazol,J02AC02 - itrakonazol
+J02AC03,vorikonazol,J02AC03 - vorikonazol
+J02AC04,posakonazol,J02AC04 - posakonazol
+J04AB02,rifampicin,J04AB02 - rifampicin
+J04AC01,izoniazid,J04AC01 - izoniazid
+J04AK02,etambutol,J04AK02 - etambutol
+J04AM02,rifampicin in izoniazid,J04AM02 - rifampicin in izoniazid
+J04AM05,"rifampicin, pirazinamid in izoniazid","J04AM05 - rifampicin, pirazinamid in izoniazid"
+J04BA02,dapson,J04BA02 - dapson
+J05AB01,aciklovir,J05AB01 - aciklovir
+J05AB04,ribavirin,J05AB04 - ribavirin
+J05AB11,valaciklovir,J05AB11 - valaciklovir
+J05AB14,valganciklovir,J05AB14 - valganciklovir
+J05AB15,brivudin,J05AB15 - brivudin
+J05AE03,ritonavir,J05AE03 - ritonavir
+J05AE08,atazanavir,J05AE08 - atazanavir
+J05AE10,darunavir,J05AE10 - darunavir
+J05AE11,telaprevir,J05AE11 - telaprevir
+J05AE12,boceprevir,J05AE12 - boceprevir
+J05AE14,simeprevir,J05AE14 - simeprevir
+J05AF02,didanozin,J05AF02 - didanozin
+J05AF05,lamivudin,J05AF05 - lamivudin
+J05AF06,abakavir,J05AF06 - abakavir
+J05AF07,dizoproksiltenofovirat,J05AF07 - dizoproksiltenofovirat
+J05AF10,entekavir,J05AF10 - entekavir
+J05AF11,telbivudin,J05AF11 - telbivudin
+J05AF13,tenofoviralafenamid,J05AF13 - tenofoviralafenamid
+J05AG03,efavirenz,J05AG03 - efavirenz
+J05AG04,etravirin,J05AG04 - etravirin
+J05AG05,rilpivirin,J05AG05 - rilpivirin
+J05AH01,zanamivir,J05AH01 - zanamivir
+J05AH02,oseltamivir,J05AH02 - oseltamivir
+J05AP08,sofosbuvir,J05AP08 - sofosbuvir
+J05AP55,sofosbuvir in velpatasvir,J05AP55 - sofosbuvir in velpatasvir
+J05AP56,"sofosbuvir, velpatasvir in voksilaprevir","J05AP56 - sofosbuvir, velpatasvir in voksilaprevir"
+J05AP57,glekaprevir in pibrentasvir,J05AP57 - glekaprevir in pibrentasvir
+J05AR01,zidovudin in lamivudin,J05AR01 - zidovudin in lamivudin
+J05AR02,lamivudin in abakavir,J05AR02 - lamivudin in abakavir
+J05AR03,dizoproksiltenofovirat in emtricitabin,J05AR03 - dizoproksiltenofovirat in emtricitabin
+J05AR08,"emtricitabin, dizoproksiltenofovirat in rilpivirin","J05AR08 - emtricitabin, dizoproksiltenofovirat in rilpivirin"
+J05AR10,lopinavir in ritonavir,J05AR10 - lopinavir in ritonavir
+J05AR13,"lamivudin, abakavir in dolutegravir","J05AR13 - lamivudin, abakavir in dolutegravir"
+J05AR14,darunavir in kobicistat,J05AR14 - darunavir in kobicistat
+J05AR17,emtricitabin in tenofoviralafenamid,J05AR17 - emtricitabin in tenofoviralafenamid
+J05AR18,"emtricitabin, tenofoviralafenamid, elvitegravir in kobicistat","J05AR18 - emtricitabin, tenofoviralafenamid, elvitegravir in kobicistat"
+J05AR19,"emtricitabin, tenofoviralafenamid in rilpivirin","J05AR19 - emtricitabin, tenofoviralafenamid in rilpivirin"
+J05AR20,"emtricitabin, tenofoviralafenamid in bictegravir","J05AR20 - emtricitabin, tenofoviralafenamid in bictegravir"
+J05AR21,dolutegravir in rilpivirin,J05AR21 - dolutegravir in rilpivirin
+J05AR22,"emtricitabin, tenofoviralafenamid, darunavir in kobicistat","J05AR22 - emtricitabin, tenofoviralafenamid, darunavir in kobicistat"
+J05AX08,raltegravir,J05AX08 - raltegravir
+J05AX09,maravirok,J05AX09 - maravirok
+J05AX12,dolutegravir,J05AX12 - dolutegravir
+J05AX16,dasabuvir,J05AX16 - dasabuvir
+J05AX65,sofosbuvir in ledipasvir,J05AX65 - sofosbuvir in ledipasvir
+J05AX67,"ombitasvir, paritaprevir in ritonavir","J05AX67 - ombitasvir, paritaprevir in ritonavir"
+J05AX68,elbasvir in grazoprevir,J05AX68 - elbasvir in grazoprevir
+J06BA01,humani imunoglobulini za ekstravaskularno aplikacijo,J06BA01 - humani imunoglobulini za ekstravaskularno aplikacijo
+J06BB04,humani imunoglobulin proti hepatitisu tipa B,J06BB04 - humani imunoglobulin proti hepatitisu tipa B
+L01AA01,ciklofosfamid,L01AA01 - ciklofosfamid
+L01AA02,klorambucil,L01AA02 - klorambucil
+L01AA03,melfalan,L01AA03 - melfalan
+L01AB01,busulfan,L01AB01 - busulfan
+L01AX03,temozolomid,L01AX03 - temozolomid
+L01BA01,metotreksat,L01BA01 - metotreksat
+L01BB02,merkaptopurin,L01BB02 - merkaptopurin
+L01BB03,tiogvanin,L01BB03 - tiogvanin
+L01BB04,kladribin,L01BB04 - kladribin
+L01BB05,fludarabin,L01BB05 - fludarabin
+L01BC06,kapecitabin,L01BC06 - kapecitabin
+L01BC53,"tegafur, kombinacije","L01BC53 - tegafur, kombinacije"
+L01BC59,"trifluridin, kombinacije","L01BC59 - trifluridin, kombinacije"
+L01CB01,etopozid,L01CB01 - etopozid
+L01XE01,imatinib,L01XE01 - imatinib
+L01XE02,gefitinib,L01XE02 - gefitinib
+L01XE03,erlotinib,L01XE03 - erlotinib
+L01XE04,sunitinib,L01XE04 - sunitinib
+L01XE05,sorafenib,L01XE05 - sorafenib
+L01XE06,dasatinib,L01XE06 - dasatinib
+L01XE07,lapatinib,L01XE07 - lapatinib
+L01XE08,nilotinib,L01XE08 - nilotinib
+L01XE10,everolimus,L01XE10 - everolimus
+L01XE11,pazopanib,L01XE11 - pazopanib
+L01XE13,afatinib,L01XE13 - afatinib
+L01XE14,bosutinib,L01XE14 - bosutinib
+L01XE15,vemurafenib,L01XE15 - vemurafenib
+L01XE16,krizotinib,L01XE16 - krizotinib
+L01XE18,ruksolitinib,L01XE18 - ruksolitinib
+L01XE21,regorafenib,L01XE21 - regorafenib
+L01XE23,dabrafenib,L01XE23 - dabrafenib
+L01XE25,trametinib,L01XE25 - trametinib
+L01XE26,kabozantinib,L01XE26 - kabozantinib
+L01XE27,ibrutinib,L01XE27 - ibrutinib
+L01XE28,ceritinib,L01XE28 - ceritinib
+L01XE31,nintedanib,L01XE31 - nintedanib
+L01XE33,palbociklib,L01XE33 - palbociklib
+L01XE35,osimertinib,L01XE35 - osimertinib
+L01XE36,alektinib,L01XE36 - alektinib
+L01XE38,kobimetinib,L01XE38 - kobimetinib
+L01XE39,midostavrin,L01XE39 - midostavrin
+L01XE42,ribociklib,L01XE42 - ribociklib
+L01XE43,brigatinib,L01XE43 - brigatinib
+L01XE50,abemaciklib,L01XE50 - abemaciklib
+L01XX05,hidroksikarbamid,L01XX05 - hidroksikarbamid
+L01XX17,topotekan,L01XX17 - topotekan
+L01XX35,anagrelid,L01XX35 - anagrelid
+L01XX42,panobinostat,L01XX42 - panobinostat
+L01XX43,vismodegib,L01XX43 - vismodegib
+L01XX46,olaparib,L01XX46 - olaparib
+L01XX47,idelalizib,L01XX47 - idelalizib
+L01XX50,iksazomib,L01XX50 - iksazomib
+L01XX52,venetoklaks,L01XX52 - venetoklaks
+L02AB01,megestrol,L02AB01 - megestrol
+L02AB02,medroksiprogesteron,L02AB02 - medroksiprogesteron
+L02AE02,levprorelin,L02AE02 - levprorelin
+L02AE03,goserelin,L02AE03 - goserelin
+L02AE04,triptorelin,L02AE04 - triptorelin
+L02AE05,histrelin,L02AE05 - histrelin
+L02BA01,tamoksifen,L02BA01 - tamoksifen
+L02BA03,fulvestrant,L02BA03 - fulvestrant
+L02BB01,flutamid,L02BB01 - flutamid
+L02BB03,bikalutamid,L02BB03 - bikalutamid
+L02BB04,enzalutamid,L02BB04 - enzalutamid
+L02BG03,anastrozol,L02BG03 - anastrozol
+L02BG04,letrozol,L02BG04 - letrozol
+L02BG06,eksemestan,L02BG06 - eksemestan
+L02BX02,degareliks,L02BX02 - degareliks
+L02BX03,abirateron,L02BX03 - abirateron
+L03AA02,filgrastim,L03AA02 - filgrastim
+L03AA13,pegfilgrastim,L03AA13 - pegfilgrastim
+L03AA14,lipegfilgrastim,L03AA14 - lipegfilgrastim
+L03AB04,interferon alfa-2a,L03AB04 - interferon alfa-2a
+L03AB05,interferon alfa-2b,L03AB05 - interferon alfa-2b
+L03AB07,interferon beta-1a,L03AB07 - interferon beta-1a
+L03AB08,interferon beta-1b,L03AB08 - interferon beta-1b
+L03AB10,peginterferon alfa-2b,L03AB10 - peginterferon alfa-2b
+L03AB11,peginterferon alfa-2a,L03AB11 - peginterferon alfa-2a
+L03AB13,peginterferon beta-1a,L03AB13 - peginterferon beta-1a
+L03AX13,glatiramerijev acetat,L03AX13 - glatiramerijev acetat
+L04AA06,mikofenolna kislina,L04AA06 - mikofenolna kislina
+L04AA10,sirolimus,L04AA10 - sirolimus
+L04AA13,leflunomid,L04AA13 - leflunomid
+L04AA18,everolimus,L04AA18 - everolimus
+L04AA23,natalizumab,L04AA23 - natalizumab
+L04AA27,fingolimod,L04AA27 - fingolimod
+L04AA29,tofacitinib,L04AA29 - tofacitinib
+L04AA31,teriflunomid,L04AA31 - teriflunomid
+L04AA32,apremilast,L04AA32 - apremilast
+L04AA37,baricitinib,L04AA37 - baricitinib
+L04AB01,etanercept,L04AB01 - etanercept
+L04AB04,adalimumab,L04AB04 - adalimumab
+L04AB05,certolizumab pegol,L04AB05 - certolizumab pegol
+L04AB06,golimumab,L04AB06 - golimumab
+L04AC01,daklizumab,L04AC01 - daklizumab
+L04AC03,anakinra,L04AC03 - anakinra
+L04AC05,ustekinumab,L04AC05 - ustekinumab
+L04AC07,tocilizumab,L04AC07 - tocilizumab
+L04AC10,sekukinumab,L04AC10 - sekukinumab
+L04AC13,iksekizumab,L04AC13 - iksekizumab
+L04AC14,sarilumab,L04AC14 - sarilumab
+L04AC16,guselkumab,L04AC16 - guselkumab
+L04AD01,ciklosporin,L04AD01 - ciklosporin
+L04AD02,takrolimus,L04AD02 - takrolimus
+L04AX01,azatioprin,L04AX01 - azatioprin
+L04AX02,talidomid,L04AX02 - talidomid
+L04AX03,metotreksat,L04AX03 - metotreksat
+L04AX04,lenalidomid,L04AX04 - lenalidomid
+L04AX05,pirfenidon,L04AX05 - pirfenidon
+L04AX06,pomalidomid,L04AX06 - pomalidomid
+M01AB01,indometacin,M01AB01 - indometacin
+M01AB05,diklofenak,M01AB05 - diklofenak
+M01AB08,etodolak,M01AB08 - etodolak
+M01AC05,lornoksikam,M01AC05 - lornoksikam
+M01AC06,meloksikam,M01AC06 - meloksikam
+M01AE01,ibuprofen,M01AE01 - ibuprofen
+M01AE02,naproksen,M01AE02 - naproksen
+M01AE03,ketoprofen,M01AE03 - ketoprofen
+M01AH01,celekoksib,M01AH01 - celekoksib
+M01AH05,etorikoksib,M01AH05 - etorikoksib
+M01AX17,nimesulid,M01AX17 - nimesulid
+M03BX01,baklofen,M03BX01 - baklofen
+M03BX02,tizanidin,M03BX02 - tizanidin
+M04AA01,alopurinol,M04AA01 - alopurinol
+M04AA03,febuksostat,M04AA03 - febuksostat
+M04AC01,kolhicin,M04AC01 - kolhicin
+M05BA02,klodronska kislina,M05BA02 - klodronska kislina
+M05BA03,pamidronska kislina,M05BA03 - pamidronska kislina
+M05BA04,alendronska kislina,M05BA04 - alendronska kislina
+M05BA06,ibandronska kislina,M05BA06 - ibandronska kislina
+M05BA07,risedronska kislina,M05BA07 - risedronska kislina
+M05BA08,zoledronska kislina,M05BA08 - zoledronska kislina
+M05BB03,alendronska kislina in holekalciferol,M05BB03 - alendronska kislina in holekalciferol
+M05BB04,"risedronska kislina, kalcij in holekalciferol, zaporedni","M05BB04 - risedronska kislina, kalcij in holekalciferol, zaporedni"
+M05BX03,stroncijev ranelat,M05BX03 - stroncijev ranelat
+M05BX04,denozumab,M05BX04 - denozumab
+M09AX03,ataluren,M09AX03 - ataluren
+N01BB02,lidokain,N01BB02 - lidokain
+N01BX04,kapsaicin,N01BX04 - kapsaicin
+N02AA01,morfin,N02AA01 - morfin
+N02AA03,hidromorfon,N02AA03 - hidromorfon
+N02AA05,oksikodon,N02AA05 - oksikodon
+N02AA08,dihidrokodein,N02AA08 - dihidrokodein
+N02AA55,oksikodon in nalokson,N02AA55 - oksikodon in nalokson
+N02AB03,fentanil,N02AB03 - fentanil
+N02AE01,buprenorfin,N02AE01 - buprenorfin
+N02AJ13,tramadol in paracetamol,N02AJ13 - tramadol in paracetamol
+N02AX02,tramadol,N02AX02 - tramadol
+N02AX06,tapentadol,N02AX06 - tapentadol
+N02AX52,"tramadol, kombinacije","N02AX52 - tramadol, kombinacije"
+N02BA01,acetilsalicilna kislina,N02BA01 - acetilsalicilna kislina
+N02BB02,natrijev metamizolat,N02BB02 - natrijev metamizolat
+N02BE01,paracetamol,N02BE01 - paracetamol
+N02CA01,dihidroergotamin,N02CA01 - dihidroergotamin
+N02CC01,sumatriptan,N02CC01 - sumatriptan
+N02CC02,naratriptan,N02CC02 - naratriptan
+N02CC03,zolmitriptan,N02CC03 - zolmitriptan
+N02CC06,eletriptan,N02CC06 - eletriptan
+N02CC07,frovatriptan,N02CC07 - frovatriptan
+N02CX07,erenumab,N02CX07 - erenumab
+N03AA01,metilfenobarbital,N03AA01 - metilfenobarbital
+N03AA02,fenobarbital,N03AA02 - fenobarbital
+N03AA03,primidon,N03AA03 - primidon
+N03AB02,fenitoin,N03AB02 - fenitoin
+N03AD01,etosuksimid,N03AD01 - etosuksimid
+N03AE01,klonazepam,N03AE01 - klonazepam
+N03AF01,karbamazepin,N03AF01 - karbamazepin
+N03AF02,okskarbazepin,N03AF02 - okskarbazepin
+N03AG01,valprojska kislina,N03AG01 - valprojska kislina
+N03AG04,vigabatrin,N03AG04 - vigabatrin
+N03AX09,lamotrigin,N03AX09 - lamotrigin
+N03AX11,topiramat,N03AX11 - topiramat
+N03AX12,gabapentin,N03AX12 - gabapentin
+N03AX14,levetiracetam,N03AX14 - levetiracetam
+N03AX15,zonisamid,N03AX15 - zonisamid
+N03AX16,pregabalin,N03AX16 - pregabalin
+N03AX17,stiripentol,N03AX17 - stiripentol
+N03AX18,lakozamid,N03AX18 - lakozamid
+N03AX21,retigabin,N03AX21 - retigabin
+N04AA02,biperiden,N04AA02 - biperiden
+N04BA02,levodopa in zaviralec dekarboksilaze,N04BA02 - levodopa in zaviralec dekarboksilaze
+N04BA03,"levodopa, zaviralec dekarboksilaze in zaviralec COMT","N04BA03 - levodopa, zaviralec dekarboksilaze in zaviralec COMT"
+N04BB01,amantadin,N04BB01 - amantadin
+N04BC04,ropinirol,N04BC04 - ropinirol
+N04BC05,pramipeksol,N04BC05 - pramipeksol
+N04BC07,apomorfin,N04BC07 - apomorfin
+N04BC09,rotigotin,N04BC09 - rotigotin
+N04BD01,selegilin,N04BD01 - selegilin
+N04BD02,razagilin,N04BD02 - razagilin
+N04BX01,tolkapon,N04BX01 - tolkapon
+N04BX02,entakapon,N04BX02 - entakapon
+N05AA02,levomepromazin,N05AA02 - levomepromazin
+N05AA03,promazin,N05AA03 - promazin
+N05AB02,flufenazin,N05AB02 - flufenazin
+N05AD01,haloperidol,N05AD01 - haloperidol
+N05AE04,ziprasidon,N05AE04 - ziprasidon
+N05AF01,flupentiksol,N05AF01 - flupentiksol
+N05AF05,zuklopentiksol,N05AF05 - zuklopentiksol
+N05AH02,klozapin,N05AH02 - klozapin
+N05AH03,olanzapin,N05AH03 - olanzapin
+N05AH04,kvetiapin,N05AH04 - kvetiapin
+N05AH05,asenapin,N05AH05 - asenapin
+N05AL01,sulpirid,N05AL01 - sulpirid
+N05AL05,amisulprid,N05AL05 - amisulprid
+N05AN01,litij,N05AN01 - litij
+N05AX08,risperidon,N05AX08 - risperidon
+N05AX12,aripiprazol,N05AX12 - aripiprazol
+N05AX13,paliperidon,N05AX13 - paliperidon
+N05AX15,kariprazin,N05AX15 - kariprazin
+N05BA01,diazepam,N05BA01 - diazepam
+N05BA03,medazepam,N05BA03 - medazepam
+N05BA04,oksazepam,N05BA04 - oksazepam
+N05BA06,lorazepam,N05BA06 - lorazepam
+N05BA08,bromazepam,N05BA08 - bromazepam
+N05BA09,klobazam,N05BA09 - klobazam
+N05BA12,alprazolam,N05BA12 - alprazolam
+N05BB01,hidroksizin,N05BB01 - hidroksizin
+N05CD01,flurazepam,N05CD01 - flurazepam
+N05CD02,nitrazepam,N05CD02 - nitrazepam
+N05CD08,midazolam,N05CD08 - midazolam
+N05CF02,zolpidem,N05CF02 - zolpidem
+N05CM02,klometiazol,N05CM02 - klometiazol
+N06AA04,klomipramin,N06AA04 - klomipramin
+N06AA09,amitriptilin,N06AA09 - amitriptilin
+N06AA12,doksepin,N06AA12 - doksepin
+N06AA21,maprotilin,N06AA21 - maprotilin
+N06AB03,fluoksetin,N06AB03 - fluoksetin
+N06AB04,citalopram,N06AB04 - citalopram
+N06AB05,paroksetin,N06AB05 - paroksetin
+N06AB06,sertralin,N06AB06 - sertralin
+N06AB10,escitalopram,N06AB10 - escitalopram
+N06AG02,moklobemid,N06AG02 - moklobemid
+N06AX03,mianserin,N06AX03 - mianserin
+N06AX05,trazodon,N06AX05 - trazodon
+N06AX11,mirtazapin,N06AX11 - mirtazapin
+N06AX12,bupropion,N06AX12 - bupropion
+N06AX14,tianeptin,N06AX14 - tianeptin
+N06AX16,venlafaksin,N06AX16 - venlafaksin
+N06AX18,reboksetin,N06AX18 - reboksetin
+N06AX21,duloksetin,N06AX21 - duloksetin
+N06AX22,agomelatin,N06AX22 - agomelatin
+N06AX26,vortioksetin,N06AX26 - vortioksetin
+N06BA04,metilfenidat,N06BA04 - metilfenidat
+N06BA07,modafinil,N06BA07 - modafinil
+N06BA09,atomoksetin,N06BA09 - atomoksetin
+N06BX13,idebenon,N06BX13 - idebenon
+N06DA02,donepezil,N06DA02 - donepezil
+N06DA03,rivastigmin,N06DA03 - rivastigmin
+N06DA04,galantamin,N06DA04 - galantamin
+N06DX01,memantin,N06DX01 - memantin
+N07AA02,piridostigmin,N07AA02 - piridostigmin
+N07AX01,pilokarpin,N07AX01 - pilokarpin
+N07BB01,disulfiram,N07BB01 - disulfiram
+N07BB04,naltrekson,N07BB04 - naltrekson
+N07BB05,nalmefen,N07BB05 - nalmefen
+N07BC02,metadon,N07BC02 - metadon
+N07CA01,betahistin,N07CA01 - betahistin
+N07XX02,riluzol,N07XX02 - riluzol
+N07XX04,natrijev oksibat,N07XX04 - natrijev oksibat
+N07XX05,amifampridin,N07XX05 - amifampridin
+N07XX06,tetrabenazin,N07XX06 - tetrabenazin
+N07XX07,fampridin,N07XX07 - fampridin
+N07XX08,tafamidis,N07XX08 - tafamidis
+N07XX09,dimetilfumarat,N07XX09 - dimetilfumarat
+P01AB01,metronidazol,P01AB01 - metronidazol
+P01BA01,klorokin,P01BA01 - klorokin
+P01BA02,hidroksiklorokin,P01BA02 - hidroksiklorokin
+P02CA01,mebendazol,P02CA01 - mebendazol
+P03AC04,permetrin,P03AC04 - permetrin
+P03AX01,benzilbenzoat,P03AX01 - benzilbenzoat
+R01AD05,budezonid,R01AD05 - budezonid
+R01AD08,flutikazon,R01AD08 - flutikazon
+R01AD09,mometazon,R01AD09 - mometazon
+R01AD12,flutikazonfuroat,R01AD12 - flutikazonfuroat
+R01AD58,"flutikazon, kombinacije","R01AD58 - flutikazon, kombinacije"
+R01AX,Druga zdravila za bolezni nosne sluznice,R01AX - Druga zdravila za bolezni nosne sluznice
+R03AC02,salbutamol,R03AC02 - salbutamol
+R03AC04,fenoterol,R03AC04 - fenoterol
+R03AC12,salmeterol,R03AC12 - salmeterol
+R03AC13,formoterol,R03AC13 - formoterol
+R03AC18,indakaterol,R03AC18 - indakaterol
+R03AK06,salmeterol in flutikazon,R03AK06 - salmeterol in flutikazon
+R03AK07,formoterol in  budezonid,R03AK07 - formoterol in  budezonid
+R03AK08,formoterol in beklometazon,R03AK08 - formoterol in beklometazon
+R03AK10,vilanterol in flutikazonfuroat,R03AK10 - vilanterol in flutikazonfuroat
+R03AL01,fenoterol in ipratropijev bromid,R03AL01 - fenoterol in ipratropijev bromid
+R03AL03,vilanterol in umeklidinijev bromid,R03AL03 - vilanterol in umeklidinijev bromid
+R03AL04,indakaterol in glikopironijev bromid,R03AL04 - indakaterol in glikopironijev bromid
+R03AL05,formoterol in aklidinijev bromid,R03AL05 - formoterol in aklidinijev bromid
+R03AL06,olodaterol in tiotropijev bromid,R03AL06 - olodaterol in tiotropijev bromid
+R03AL08,"vilanterol, umeklidinijev bromid in flutikazonfuroat","R03AL08 - vilanterol, umeklidinijev bromid in flutikazonfuroat"
+R03AL09,"formoterol, glikopironijev bromid in beklometazon","R03AL09 - formoterol, glikopironijev bromid in beklometazon"
+R03BA02,budezonid,R03BA02 - budezonid
+R03BA05,flutikazon,R03BA05 - flutikazon
+R03BA07,mometazon,R03BA07 - mometazon
+R03BA08,ciklezonid,R03BA08 - ciklezonid
+R03BB04,tiotropijev bromid,R03BB04 - tiotropijev bromid
+R03BB05,aklidinijev bromid,R03BB05 - aklidinijev bromid
+R03BB06,glikopironijev bromid,R03BB06 - glikopironijev bromid
+R03BB07,umeklidinijev bromid,R03BB07 - umeklidinijev bromid
+R03CC02,salbutamol,R03CC02 - salbutamol
+R03DA04,teofilin,R03DA04 - teofilin
+R03DC01,zafirlukast,R03DC01 - zafirlukast
+R03DC03,montelukast,R03DC03 - montelukast
+R03DX07,roflumilast,R03DX07 - roflumilast
+R03DX09,mepolizumab,R03DX09 - mepolizumab
+R05CB13,dornaza alfa (dezoksiribonukleaza),R05CB13 - dornaza alfa (dezoksiribonukleaza)
+R05DA04,kodein,R05DA04 - kodein
+R05DA08,folkodin,R05DA08 - folkodin
+R06AB03,dimetinden,R06AB03 - dimetinden
+R06AD03,tietilperazin,R06AD03 - tietilperazin
+R06AE07,cetirizin,R06AE07 - cetirizin
+R06AE09,levocetirizin,R06AE09 - levocetirizin
+R06AX13,loratadin,R06AX13 - loratadin
+R06AX26,feksofenadin,R06AX26 - feksofenadin
+R06AX27,desloratadin,R06AX27 - desloratadin
+S01AA01,kloramfenikol,S01AA01 - kloramfenikol
+S01AA12,tobramicin,S01AA12 - tobramicin
+S01AA26,azitromicin,S01AA26 - azitromicin
+S01AA30,kombinacije različnih antibiotikov,S01AA30 - kombinacije različnih antibiotikov
+S01AD03,aciklovir,S01AD03 - aciklovir
+S01AD09,ganciklovir,S01AD09 - ganciklovir
+S01AE03,ciprofloksacin,S01AE03 - ciprofloksacin
+S01AE05,levofloksacin,S01AE05 - levofloksacin
+S01AE07,moksifloksacin,S01AE07 - moksifloksacin
+S01AX,Druga zdravila za preprečevanje in zdravljenje infekcij,S01AX - Druga zdravila za preprečevanje in zdravljenje infekcij
+S01AX02,srebrove spojine,S01AX02 - srebrove spojine
+S01BA01,deksametazon,S01BA01 - deksametazon
+S01BA02,hidrokortizon,S01BA02 - hidrokortizon
+S01BA07,fluorometolon,S01BA07 - fluorometolon
+S01BA14,loteprednol,S01BA14 - loteprednol
+S01BC03,diklofenak,S01BC03 - diklofenak
+S01BC10,nepafenak,S01BC10 - nepafenak
+S01CA01,deksametazon in protimikrobne učinkovine,S01CA01 - deksametazon in protimikrobne učinkovine
+S01EA05,brimonidin,S01EA05 - brimonidin
+S01EB01,pilokarpin,S01EB01 - pilokarpin
+S01EC01,acetazolamid,S01EC01 - acetazolamid
+S01EC03,dorzolamid,S01EC03 - dorzolamid
+S01EC04,brinzolamid,S01EC04 - brinzolamid
+S01EC54,"brinzolamid, kombinacije","S01EC54 - brinzolamid, kombinacije"
+S01ED01,timolol,S01ED01 - timolol
+S01ED02,betaksolol,S01ED02 - betaksolol
+S01ED51,"timolol, kombinacije","S01ED51 - timolol, kombinacije"
+S01EE01,latanoprost,S01EE01 - latanoprost
+S01EE03,bimatoprost,S01EE03 - bimatoprost
+S01EE04,travoprost,S01EE04 - travoprost
+S01EE05,tafluprost,S01EE05 - tafluprost
+S01FA01,atropin,S01FA01 - atropin
+S01FA02,skopolamin,S01FA02 - skopolamin
+S01FA05,homatropin,S01FA05 - homatropin
+S01FB01,fenilefrin,S01FB01 - fenilefrin
+S01GX05,lodoksamid,S01GX05 - lodoksamid
+S01GX06,emedastin,S01GX06 - emedastin
+S01GX08,ketotifen,S01GX08 - ketotifen
+S01GX09,olopatadin,S01GX09 - olopatadin
+S01XA,Druga zdravila za očesne bolezni,S01XA - Druga zdravila za očesne bolezni
+S01XA03,hipertonična raztopina natrijevega klorida,S01XA03 - hipertonična raztopina natrijevega klorida
+S01XA08,acetilcistein,S01XA08 - acetilcistein
+S01XA15,askorbinska kislina (vitamin C),S01XA15 - askorbinska kislina (vitamin C)
+S01XA18,ciklosporin,S01XA18 - ciklosporin
+S01XA20,umetne solze in druga nevtralna zdravila,S01XA20 - umetne solze in druga nevtralna zdravila
+S03AA30,"protimikrobne učinkovine, kombinacije","S03AA30 - protimikrobne učinkovine, kombinacije"
+V01AA,Alergenski ekstrakti,V01AA - Alergenski ekstrakti
+V01AA02,cvetni prah trav,V01AA02 - cvetni prah trav
+V01AA20,razni alergenski ekstrakti,V01AA20 - razni alergenski ekstrakti
+V03AC03,deferasiroks,V03AC03 - deferasiroks
+V03AE01,polistirensulfonat,V03AE01 - polistirensulfonat
+V03AE02,sevelamer,V03AE02 - sevelamer
+V03AE03,lantanov(III) karbonat,V03AE03 - lantanov(III) karbonat
+V03AE04,kalcijev acetat in magnezijev karbonat,V03AE04 - kalcijev acetat in magnezijev karbonat
+V03AG,Zdravila za zdravljenje hiperkalciemije,V03AG - Zdravila za zdravljenje hiperkalciemije
+V06,OSNOVNA HRANILA,V06 - OSNOVNA HRANILA
+V06C,Hranila za otroke,V06C - Hranila za otroke
+V06CA,Hranila brez fenilalanina,V06CA - Hranila brez fenilalanina
+V06DB,"Maščobe, ogljikovi hidrati, proteini, minerali in vitamini, kombinacije","V06DB - Maščobe, ogljikovi hidrati, proteini, minerali in vitamini, kombinacije"
+V06DF,Mlečni nadomestki,V06DF - Mlečni nadomestki
+V06DX,Druge kombinacije hranil,V06DX - Druge kombinacije hranil
+V07AB,"Raztopine in pripravki za redčenje, vključno s tekočinami za izpiranje","V07AB - Raztopine in pripravki za redčenje, vključno s tekočinami za izpiranje"
