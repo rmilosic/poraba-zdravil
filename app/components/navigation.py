@@ -1,5 +1,6 @@
 import dash_bootstrap_components as dbc
 
+
 layout = dbc.NavbarSimple(
     children=[
         dbc.NavItem(dbc.NavLink("Trendi", href="/trendi")),
@@ -7,6 +8,6 @@ layout = dbc.NavbarSimple(
 
     ],
     className="mb-4",
-    brand="Poraba zdravil v Sloveniji",
+    brand="PORABA ZDRAVIL V SLOVENIJI",
     brand_href="/"
 )

@@ -1,1 +1,1 @@
-from . import navigation, trend_filters
+from . import navigation, filters, filter_layout
